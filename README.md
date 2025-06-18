@@ -64,9 +64,9 @@
 [![GraphQL](https://img.shields.io/badge/GraphQL-0D1117?style=for-the-badge&logo=graphql&logoColor=E394DC)](https://graphql.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=E394DC)](https://tailwindcss.com/)
 
-<h4 align="left" style="color:#EBC88D !important; margin: 2em 0 1em 0; font-size: 1.1em; font-weight: 600; display: flex; align-items: center; gap: 8px;">
+<h4 align="left" style="text-color: #EBC88D !important; margin: 2em 0 1em 0; font-size: 1.1em; font-weight: 600; display: flex; align-items: center; gap: 8px;">
   <span style="display: inline-block; width: 8px; height: 8px; background-color: #EBC88D; border-radius: 50%;"></span>
-  <font color=#EBC88D>Data Science & AI</font>
+  <span style="color: #EBC88D">Data Science & AI</span>
 </h4>
 
 [![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=EBC88D)](https://www.python.org/)
