@@ -24,9 +24,19 @@
   padding: 0 1.2em;
   color: #D6D6DD;
   line-height: 1.6;
-  font-size: 1em;
-">
-AI Engineer with a founder's mindset, specializing in building practical AI solutions that deliver real business value. I combine technical expertise with strategic thinking to create robust, scalable systems.
+  font-size: 1em;">
+  <div style="display: flex; align-items: flex-start; margin-bottom: 0.5em;">
+    <span style="color: #83D6C5; margin-right: 0.5em;">▼</span>
+    <span>AI Engineer with a founder's mindset, specializing in building practical AI solutions that deliver real business value</span>
+  </div>
+  <div style="display: flex; align-items: flex-start; margin-bottom: 0.5em;">
+    <span style="color: #83D6C5; margin-right: 0.5em;">▼</span>
+    <span>Technical expertise combined with strategic thinking for robust, scalable systems</span>
+  </div>
+  <div style="display: flex; align-items: flex-start;">
+    <span style="color: #83D6C5; margin-right: 0.5em;">▼</span>
+    <span>Focused on creating impactful, production-ready AI applications</span>
+  </div>
 </div>
 
 ### <span style="color: #83D6C5; display: flex; align-items: center; gap: 8px;"><img src="https://cdn.simpleicons.org/rocket/83D6C5" width="20" alt="About Me" /> About Me</span>
