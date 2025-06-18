@@ -103,43 +103,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethrdev&layout=compact&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&icon_color=83D6C5&border_color=2D3748&card_width=445&text_bold=false&hide=html,css,scss&langs_count=6)](https://github.com/ethrdev)
 
-<div style="text-align: center; margin: 3em auto; max-width: 800px; display: flex; gap: 1.2rem; justify-content: center; flex-wrap: wrap;">
-  <a href="mailto:your.email@example.com" style="
-    background: linear-gradient(135deg, #83D6C5 0%, #5BB8A8 100%);
-    color: #0D1117;
-    padding: 0.9rem 2rem;
-    border-radius: 6px;
-    text-decoration: none;
-    font-weight: 600;
-    font-family: 'Fira Code', monospace;
-    transition: all 0.3s ease;
-    display: inline-flex;
-    align-items: center;
-    gap: 0.7rem;
-    border: none;
-    box-shadow: 0 4px 15px rgba(131, 214, 197, 0.3);
-    position: relative;
-    overflow: hidden;
-    z-index: 1;
-  " onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 20px rgba(131, 214, 197, 0.4)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 15px rgba(131, 214, 197, 0.3)';">
-    <span style="font-size: 1.1em;">✉️</span> Business Inquiry
-  </a>
-  <a href="https://calendly.com/yourusername" target="_blank" style="
-    background: transparent;
-    color: #83D6C5;
-    padding: 0.9rem 2rem;
-    border-radius: 6px;
-    text-decoration: none;
-    font-weight: 600;
-    font-family: 'Fira Code', monospace;
-    transition: all 0.3s ease;
-    border: 2px solid #83D6C5;
-    display: inline-flex;
-    align-items: center;
-    gap: 0.7rem;
-    position: relative;
-    z-index: 1;
-  " onmouseover="this.style.background='rgba(131, 214, 197, 0.1)'; this.style.transform='translateY(-2px)';" onmouseout="this.style.background='transparent'; this.style.transform='translateY(0)';">
-    <span style="font-size: 1.1em;">📅</span> Schedule a Call
-  </a>
+<div style="margin: 4em auto 2em; max-width: 700px; color: #D6D6DD; text-align: center; font-size: 1.05em;">
+  <p style="margin-bottom: 1.8em;">
+    Hast du ein spannendes Projekt mit AI? <a href="mailto:your.email@example.com" style="color: #83D6C5; text-decoration: none; border-bottom: 1px dashed #83D6C5; padding-bottom: 2px; transition: all 0.2s ease;" onmouseover="this.style.color='#5BB8A8'; this.style.borderBottom='1px solid #5BB8A8';" onmouseout="this.style.color='#83D6C5'; this.style.borderBottom='1px dashed #83D6C5';">Lass uns darüber sprechen!</a>
+  </p>
+  <p>
+    <a href="https://calendly.com/yourusername" target="_blank" style="display: inline-flex; align-items: center; color: #EBC88D; text-decoration: none; transition: all 0.2s ease; gap: 6px;" onmouseover="this.style.color='#D9B87C';" onmouseout="this.style.color='#EBC88D';">
+      <span style="font-size: 1.1em;">☕</span> Virtuelle Kaffeepause? Lass uns einen Termin finden
+    </a>
+  </p>
 </div>
