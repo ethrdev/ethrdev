@@ -11,9 +11,10 @@
   <span>✦</span><span>✧</span><span>✦</span><span>✧</span><span>✦</span>
 </div>
 
+
 <div align="center" style="margin: 0 auto; max-width: 800px; padding: 0 1em;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=83D6C5&center=true&vCenter=true&width=600&lines=Building+intelligent+solutions+with+AI;Transforming+ideas+into+scalable+products;Passionate+about+MERN+and+AI+stacks;Creating+impact+through+technology" alt="Typing SVG" style="margin: 0.5em 0 1em;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=83D6C5&center=true&vCenter=true&width=600&lines=ethR;Building+intelligent+solutions+with+AI;Transforming+ideas+into+scalable+product" alt="Typing SVG" style="margin: 0.5em 0 1em;" />
   </a>
 </div>
 
