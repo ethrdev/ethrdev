@@ -12,8 +12,8 @@
 </div>
 
 
-<div style="display: flex; align-items: center; justify-content: center; margin: 0 auto; max-width: 800px; padding: 0 1em;">
-  <span style="color: #E06C75; font-family: 'Fira Code', monospace; font-size: 20px; font-weight: 500; margin-right: 10px;">ethR</span>
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; margin: 0 auto; max-width: 800px; padding: 0 1em;">
+  <a style="color: #E06C75; font-family: 'Fira Code', monospace; font-size: 20px; font-weight: 500; margin-right: 10px;">ethR</span>
   <a href="https://git.io/typing-svg" style="flex-grow: 1;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=83D6C5&vCenter=true&width=100%25&lines=Building+intelligent+solutions+with+AI;Transforming+ideas+into+scalable+product" alt="Typing SVG" style="margin: 0.5em 0;" />
   </a>
