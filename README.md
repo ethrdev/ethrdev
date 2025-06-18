@@ -12,13 +12,15 @@
 </div>
 
 
-<div style="text-align: center; margin: 1.5em auto; max-width: 600px;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1000&color=83D6C5&center=true&vCenter=true&width=100%25&lines=Building+intelligent+solutions+with+AI;Transforming+ideas+into+scalable+product" alt="Typing SVG" style="display: block; margin: 0 auto; height: 1.5em;" />
-  </a>
+<div style="width: 100%; text-align: center; margin: 2em 0;">
+  <div style="display: inline-block; text-align: center; max-width: 100%;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=83D6C5&center=true&vCenter=true&width=600&lines=Building+intelligent+solutions+with+AI;Transforming+ideas+into+scalable+product" alt="Typing SVG" style="display: block; margin: 0 auto;" />
+    </a>
+  </div>
 </div>
 
-<div style="max-width: 700px; margin: 0 auto; padding: 0 1.2em; color: #D6D6DD; line-height: 1.6; font-size: 1em;">
+<div style="max-width: 700px; margin: 0 auto; padding: 0 1.2em; color: #D6D6DD; line-height: 1.6; font-size: 1em; margin-top: 1.5em; margin-bottom: 2.5em;">
   <div style="display: flex; align-items: flex-start; margin-bottom: 0.5em; gap: 8px;">
     <span style="color: #83D6C5;">▲</span>
     <span>AI Engineer with a founder's mindset, specializing in building practical AI solutions that deliver real business value</span>
@@ -33,20 +35,40 @@
   </div>
 </div>
 
-<span style="color: #83D6C5; display: flex; align-items: center; gap: 8px;">■ About Me</span>
-<ul style="list-style-type: none; padding-left: 0; margin-left: 0;">
-  <li style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;"><span style="color: #83D6C5;">■</span> <span style="color: #D6D6DD"><strong>AI Engineer</strong> with expertise in modern AI/ML technologies</span></li>
-  <li style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;"><span style="color: #83D6C5;">■</span> <span style="color: #D6D6DD"><strong>Tech Entrepreneur</strong> with experience in building and scaling SaaS products</span></li>
-  <li style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;"><span style="color: #83D6C5;">■</span> <span style="color: #D6D6DD"><strong>Results-driven</strong> with a focus on practical, impactful solutions</span></li>
-  <li style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;"><span style="color: #83D6C5;">■</span> <span style="color: #D6D6DD">Continuously expanding expertise in cutting-edge AI technologies</span></li>
-  <li style="display: flex; align-items: center; gap: 8px;"><span style="color: #83D6C5;">■</span> <span style="color: #D6D6DD">Passionate about transforming strategic vision into technological reality</span></li>
-</ul>
+<div style="margin: 2em 0 1.5em 0;">
+  <h3 style="color: #83D6C5; margin: 0 0 0.8em 0; font-size: 1.2em; font-weight: 600;">About Me</h3>
+  <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+    <li style="display: flex; align-items: flex-start; margin-bottom: 0.5em; gap: 8px;">
+      <span style="color: #83D6C5; flex-shrink: 0; margin-top: 0.2em;">▲</span>
+      <span style="color: #D6D6DD;"><strong>AI Engineer</strong> with expertise in modern AI/ML technologies</span>
+    </li>
+    <li style="display: flex; align-items: flex-start; margin-bottom: 0.5em; gap: 8px;">
+      <span style="color: #83D6C5; flex-shrink: 0; margin-top: 0.2em;">▲</span>
+      <span style="color: #D6D6DD;"><strong>Tech Entrepreneur</strong> with experience in building and scaling SaaS products</span>
+    </li>
+    <li style="display: flex; align-items: flex-start; margin-bottom: 0.5em; gap: 8px;">
+      <span style="color: #83D6C5; flex-shrink: 0; margin-top: 0.2em;">▲</span>
+      <span style="color: #D6D6DD;"><strong>Results-driven</strong> with a focus on practical, impactful solutions</span>
+    </li>
+    <li style="display: flex; align-items: flex-start; margin-bottom: 0.5em; gap: 8px;">
+      <span style="color: #83D6C5; flex-shrink: 0; margin-top: 0.2em;">▲</span>
+      <span style="color: #D6D6DD;">Continuously expanding expertise in cutting-edge AI technologies</span>
+    </li>
+    <li style="display: flex; align-items: flex-start; gap: 8px;">
+      <span style="color: #83D6C5; flex-shrink: 0; margin-top: 0.2em;">▲</span>
+      <span style="color: #D6D6DD;">Passionate about transforming strategic vision into technological reality</span>
+    </li>
+  </ul>
+</div>
 
-<h3 style="color: #83D6C5; display: flex; align-items: center; gap: 8px; margin: 1.5em 0 0.8em 0;">
-  <span style="color: #83D6C5;">🛠</span> Technologies & Tools
+<h3 style="color: #83D6C5; margin: 1.5em 0 0.8em 0; font-size: 1.2em; font-weight: 600; border-bottom: 1px solid #2D3748; padding-bottom: 0.5em;">
+  Technologies & Tools
 </h3>
 
-<h4 style="color: #EBC88D; margin: 1.5em 0 0.8em 0;">App Development</h4>
+<h4 style="color: #EBC88D; margin: 2em 0 1em 0; font-size: 1.1em; font-weight: 600; display: flex; align-items: center; gap: 8px;">
+  <span style="display: inline-block; width: 8px; height: 8px; background-color: #EBC88D; border-radius: 50%;"></span>
+  App Development
+</h4>
 
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat&logo=typescript&logoColor=83D6C5)](https://www.typescriptlang.org/)
@@ -58,7 +80,10 @@
 [![GraphQL](https://img.shields.io/badge/GraphQL-0D1117?style=flat&logo=graphql&logoColor=83D6C5)](https://graphql.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat&logo=tailwindcss&logoColor=83D6C5)](https://tailwindcss.com/)
 
-<h4 style="color: #EBC88D; margin: 1.5em 0 0.8em 0;">Data Science & AI</h4>
+<h4 style="color: #EBC88D; margin: 2em 0 1em 0; font-size: 1.1em; font-weight: 600; display: flex; align-items: center; gap: 8px;">
+  <span style="display: inline-block; width: 8px; height: 8px; background-color: #EBC88D; border-radius: 50%;"></span>
+  Data Science & AI
+</h4>
 
 [![Python](https://img.shields.io/badge/Python-0D1117?style=flat&logo=python&logoColor=83D6C5)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=flat&logo=tensorflow&logoColor=83D6C5)](https://www.tensorflow.org/)
@@ -76,7 +101,7 @@
   GitHub Stats
 </span>
 
-[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethrdev&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&icon_color=E394DC&ring_color=EBC88D&include_all_commits=true&count_private=true)](https://github.com/ethrdev)
+[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethrdev&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&icon_color=83D6C5&ring_color=EBC88D&include_all_commits=true&count_private=true&hide=issues,contribs)](https://github.com/ethrdev)
 
 <h4 style="color: #EBC88D; margin: 1.5em 0 0.8em 0;">Top Languages</h4>
 
