@@ -1,30 +1,4 @@
-<div align="center">
-  <img src="https://github.com/ethrdev.png" width="120" height="120" style="border-radius: 50%; border: 2px solid #83D6C5; margin-bottom: 1em;">
-</div>
-
-<div align="center" style="margin: 0.5em 0 0.8em 0;">
-  <span style="
-    color: #83D6C5;
-    font-family: 'Fira Code', 'Consolas', monospace;
-    font-weight: 600;
-    letter-spacing: 0.05em;
-    text-shadow: 0 0 10px rgba(131, 214, 197, 0.3);
-    border-bottom: 2px solid #83D6C5;
-    padding: 0 0.8em 0.3em;
-    display: inline-block;
-    line-height: 1.4;
-  ">
-    <span style="color: #EBC88D;">╭─❯</span>
-    <span style="font-family: 'Fira Code', monospace; font-weight: 600; margin: 0 0.2em;">Stefan</span>
-    <span style="color: #E394DC; margin: 0 0.1em;">│</span>
-    <span style="color: #83D6C5; font-weight: 400; margin: 0 0.1em;">AI</span>
-    <span style="color: #EBC88D; margin: 0 0.1em;">Engineer</span>
-    <span style="color: #E394DC; margin: 0 0.1em;">&</span>
-    <span style="color: #83D6C5; font-weight: 400; margin: 0 0.1em;">Tech</span>
-    <span style="color: #EBC88D; margin: 0 0.1em 0 0.1em;">Entrepreneur</span>
-    <span style="color: #E394DC; margin-left: 0.2em;">❮─╯</span>
-  </span>
-</div>
+<div align="center" style="margin: 0.5em 0 0.8em 0;"></div>
 
 <div align="center" style="
   font-family: 'Fira Code', monospace;
