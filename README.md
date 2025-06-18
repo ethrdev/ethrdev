@@ -1,6 +1,37 @@
 # <img src="https://github.com/ethrdev.png" width="120" height="120" style="border-radius: 50%; border: 2px solid #83D6C5;">
 
-## <span style="color: #D6D6DD">Stefan | AI Engineer & Tech Entrepreneur</span>
+## <div align="center" style="margin: 0.5em 0;">
+  <span style="
+    color: #83D6C5;
+    font-family: 'Fira Code', 'Consolas', monospace;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-shadow: 0 0 10px rgba(131, 214, 197, 0.3);
+    border-bottom: 2px solid #83D6C5;
+    padding-bottom: 0.2em;
+    display: inline-block;
+  ">
+    <span style="color: #EBC88D;">╭─❯</span>
+    <span style="font-family: 'Fira Code', monospace; font-weight: 600;">Stefan</span>
+    <span style="color: #E394DC;">|</span>
+    <span style="color: #83D6C5; font-weight: 400;">AI</span>
+    <span style="color: #EBC88D;">Engineer</span>
+    <span style="color: #E394DC;">&</span>
+    <span style="color: #83D6C5; font-weight: 400;">Tech</span>
+    <span style="color: #EBC88D;">Entrepreneur</span>
+    <span style="color: #E394DC;">❮─╯</span>
+  </span>
+</div>
+
+<div align="center" style="
+  font-family: 'Fira Code', monospace;
+  color: #737373;
+  font-size: 0.9em;
+  margin: -0.5em 0 1em 0;
+  letter-spacing: 0.2em;
+">
+  <span>✦</span><span>✧</span><span>✦</span><span>✧</span><span>✦</span>
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
