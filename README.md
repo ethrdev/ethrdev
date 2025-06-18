@@ -1,4 +1,17 @@
 <div align="center" style="margin: 1em 0;">
+  <!-- Social Links -->
+  <div style="margin-bottom: 1em;">
+    <a href="https://github.com/ethrdev" style="text-decoration: none; margin: 0 10px; transition: opacity 0.3s;" onmouseover="this.style.opacity=0.7" onmouseout="this.style.opacity=1">
+      <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=83D6C5" alt="GitHub" />
+    </a>
+    <a href="https://linkedin.com/in/yourusername" style="text-decoration: none; margin: 0 10px; transition: opacity 0.3s;" onmouseover="this.style.opacity=0.7" onmouseout="this.style.opacity=1">
+      <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=83D6C5" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/yourusername" style="text-decoration: none; margin: 0 10px; transition: opacity 0.3s;" onmouseover="this.style.opacity=0.7" onmouseout="this.style.opacity=1">
+      <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=83D6C5" alt="Twitter" />
+    </a>
+  </div>
+
   <div style="font-family: 'Fira Code', monospace; color: #737373; font-size: 0.9em; margin-bottom: 1em; letter-spacing: 0.3em; line-height: 1.5;">
     <span>✦</span><span>✧</span><span>✦</span><span>✧</span><span>✦</span>
   </div>
@@ -23,10 +36,15 @@
     <span style="color: #83D6C5;">▲</span>
     <span>Focused on creating impactful, production-ready AI applications</span>
   </div>
+  
+  <!-- Keywords for SEO and better visibility -->
+  <div style="margin-top: 1.5em; font-size: 0.9em; color: #737373;">
+    <code>#AIEngineering</code> <code>#MachineLearning</code> <code>#ProductDevelopment</code> <code>#LLMs</code> <code>#AIStrategy</code>
+  </div>
 </div>
 
 <div style="margin: 2em 0 1.5em 0;">
-  <h3 style="color: #83D6C5; margin: 0 0 0.8em 0; font-size: 1.2em; font-weight: 600;">About Me</h3>
+  <h3 style="color: #83D6C5; margin: 0 0 0.8em 0; font-size: 1.2em; font-weight: 600; border-bottom: 1px solid rgba(131, 214, 197, 0.3); padding-bottom: 0.5em;">About Me</h3>
   <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 0.5em; gap: 8px;">
     <div style="display: flex; align-items: flex-start; margin-bottom: 0.5em; gap: 8px;">
       <span style="color: #83D6C5; flex-shrink: 0; margin-top: 0.2em;">▲</span>
@@ -94,11 +112,41 @@
 </h3>
 
 <div style="display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap; margin: 1.5em 0;">
-  <a href="https://github.com/ethrdev">
-    <img alt="Stefan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ethrdev&show_icons=true&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&icon_color=83D6C5&ring_color=EBC88D&include_all_commits=true&count_private=true&hide=issues,contribs" />
+  <a href="https://github.com/ethrdev" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+    <img alt="Stefan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ethrdev&show_icons=true&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&icon_color=83D6C5&ring_color=EBC88D&include_all_commits=true&count_private=true&hide=issues,contribs&card_width=495" />
   </a>
-  <a href="https://github.com/ethrdev?tab=repositories">
+  <a href="https://github.com/ethrdev?tab=repositories" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethrdev&layout=compact&bg_color=0D1117&hide_border=true&border_color=2D3748&title_color=83D6C5&text_color=D6D6DD&icon_color=83D6C5&card_width=445&text_bold=false&hide=html,css,scss&langs_count=6&include_private=true&custom_title=Most%20Used%20Languages&border_radius=6&locale=en&cache_seconds=7200" />
+  </a>
+</div>
+
+<h3 align="left" style="color: #83D6C5 !important; margin-top: 3em; margin-bottom: 1em; font-size: 1.2em; border-bottom: 1px solid rgba(131, 214, 197, 0.3); padding-bottom: 0.5em;">
+  <font color="#83D6C5">Featured Projects</font>
+</h3>
+
+<div style="display: flex; flex-direction: column; gap: 1.2rem; margin: 1.5em 0 3em 0;">
+  <a href="https://github.com/ethrdev/project-name-1" style="text-decoration: none; color: inherit; display: flex; border-radius: 6px; overflow: hidden; transition: transform 0.3s;" onmouseover="this.style.transform='translateX(5px)'" onmouseout="this.style.transform='translateX(0)'">
+    <div style="background: rgba(131, 214, 197, 0.1); padding: 1em; border-left: 3px solid #83D6C5; width: 100%;">
+      <h4 style="color: #83D6C5; margin: 0 0 0.5em 0;">AI Documentation Assistant</h4>
+      <p style="color: #D6D6DD; margin: 0 0 0.5em 0; font-size: 0.9em;">LLM-powered tool that automatically generates high-quality technical documentation from codebases.</p>
+      <div style="font-size: 0.8em; color: #737373;">
+        <span style="background: rgba(131, 214, 197, 0.1); padding: 2px 8px; border-radius: 4px; margin-right: 8px;">Python</span>
+        <span style="background: rgba(131, 214, 197, 0.1); padding: 2px 8px; border-radius: 4px; margin-right: 8px;">LangChain</span>
+        <span style="background: rgba(131, 214, 197, 0.1); padding: 2px 8px; border-radius: 4px;">Next.js</span>
+      </div>
+    </div>
+  </a>
+  
+  <a href="https://github.com/ethrdev/project-name-2" style="text-decoration: none; color: inherit; display: flex; border-radius: 6px; overflow: hidden; transition: transform 0.3s;" onmouseover="this.style.transform='translateX(5px)'" onmouseout="this.style.transform='translateX(0)'">
+    <div style="background: rgba(235, 200, 141, 0.1); padding: 1em; border-left: 3px solid #EBC88D; width: 100%;">
+      <h4 style="color: #EBC88D; margin: 0 0 0.5em 0;">Predictive Analytics Dashboard</h4>
+      <p style="color: #D6D6DD; margin: 0 0 0.5em 0; font-size: 0.9em;">Real-time data visualization platform with ML-powered forecasting and anomaly detection.</p>
+      <div style="font-size: 0.8em; color: #737373;">
+        <span style="background: rgba(235, 200, 141, 0.1); padding: 2px 8px; border-radius: 4px; margin-right: 8px;">React</span>
+        <span style="background: rgba(235, 200, 141, 0.1); padding: 2px 8px; border-radius: 4px; margin-right: 8px;">TensorFlow</span>
+        <span style="background: rgba(235, 200, 141, 0.1); padding: 2px 8px; border-radius: 4px;">GraphQL</span>
+      </div>
+    </div>
   </a>
 </div>
 
@@ -107,10 +155,10 @@
 </h3>
 
 <div style="display: flex; justify-content: flex-start; gap: 1rem; flex-wrap: wrap; margin: 1.5em 0;">
-  <a href="mailto:s.einert@proton.me" style="text-decoration: none;">
+  <a href="mailto:s.einert@proton.me" style="text-decoration: none; transition: transform 0.3s, opacity 0.3s;" onmouseover="this.style.transform='scale(1.03)'; this.style.opacity='0.9'" onmouseout="this.style.transform='scale(1)'; this.style.opacity='1'">
     <img alt="Business Inquiries" src="https://img.shields.io/badge/Got_an_exciting_project%3F-Let's_build_together-83D6C5?style=for-the-badge&labelColor=0D1117&color=83D6C5">
   </a>
-  <a href="mailto:patterns.absorbed@proton.me" target="_blank" style="text-decoration: none;">
+  <a href="mailto:patterns.absorbed@proton.me" target="_blank" style="text-decoration: none; transition: transform 0.3s, opacity 0.3s;" onmouseover="this.style.transform='scale(1.03)'; this.style.opacity='0.9'" onmouseout="this.style.transform='scale(1)'; this.style.opacity='1'">
     <img alt="Schedule a Call" src="https://img.shields.io/badge/Virtual_coffee%3F-Let's_find_a_time-EBC88D?style=for-the-badge&labelColor=0D1117&color=EBC88D">
   </a>
 </div>
