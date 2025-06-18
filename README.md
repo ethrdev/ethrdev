@@ -1,35 +1,40 @@
-# <img src="https://github.com/ethrdev.png" width="120" height="120" style="border-radius: 50%; border: 2px solid #83D6C5;">
-
 ## <div align="center" style="margin: 0.5em 0;">
-  <span style="
-    color: #83D6C5;
-    font-family: 'Fira Code', 'Consolas', monospace;
-    font-weight: 600;
-    letter-spacing: 0.05em;
-    text-shadow: 0 0 10px rgba(131, 214, 197, 0.3);
-    border-bottom: 2px solid #83D6C5;
-    padding-bottom: 0.2em;
-    display: inline-block;
-  ">
+  <link href="https://fonts.cdnfonts.com/css/bigblue-terminal-nerd-mono" rel="stylesheet">
+  <style>
+    @import url('https://fonts.cdnfonts.com/css/bigblue-terminal-nerd-mono');
+    .terminal-text {
+      font-family: 'BigBlue Terminal Nerd Font', 'BigBlue Terminal 437TT', 'Courier New', monospace;
+      color: #83D6C5;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      text-shadow: 0 0 10px rgba(131, 214, 197, 0.3);
+      border-bottom: 2px solid #83D6C5;
+      padding-bottom: 0.2em;
+      display: inline-block;
+      font-size: 1.1em;
+    }
+    .decorative-line {
+      font-family: 'BigBlue Terminal Nerd Font', 'BigBlue Terminal 437TT', monospace;
+      color: #737373;
+      font-size: 0.9em;
+      margin: -0.5em 0 1em 0;
+      letter-spacing: 0.2em;
+    }
+  </style>
+  <span class="terminal-text">
     <span style="color: #EBC88D;">╭─❯</span>
-    <span style="font-family: 'Fira Code', monospace; font-weight: 600;">Stefan</span>
+    <span>Stefan</span>
     <span style="color: #E394DC;">|</span>
-    <span style="color: #83D6C5; font-weight: 400;">AI</span>
+    <span style="color: #83D6C5;">AI</span>
     <span style="color: #EBC88D;">Engineer</span>
     <span style="color: #E394DC;">&</span>
-    <span style="color: #83D6C5; font-weight: 400;">Tech</span>
+    <span style="color: #83D6C5;">Tech</span>
     <span style="color: #EBC88D;">Entrepreneur</span>
     <span style="color: #E394DC;">❮─╯</span>
   </span>
 </div>
 
-<div align="center" style="
-  font-family: 'Fira Code', monospace;
-  color: #737373;
-  font-size: 0.9em;
-  margin: -0.5em 0 1em 0;
-  letter-spacing: 0.2em;
-">
+<div align="center" class="decorative-line">
   <span>✦</span><span>✧</span><span>✦</span><span>✧</span><span>✦</span>
 </div>
 
