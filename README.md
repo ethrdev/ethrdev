@@ -61,13 +61,13 @@
   </div>
 </div>
 
-<h3 style="color: #83D6C5; margin: 1.5em 0 0.8em 0; font-size: 1.2em; font-weight: 600; border-bottom: 1px solid #2D3748; padding-bottom: 0.5em;">
-  Technologies & Tools
+<h3 align="center" style="color: #83D6C5 !important; margin-top: 3em; margin-bottom: 1.5em; font-size: 1.3em; border-bottom: 1px solid rgba(131, 214, 197, 0.3); padding-bottom: 0.5em;">
+  <font color="#83D6C5">Technologies & Tools</font>
 </h3>
 
-<h4 style="color: #E394DC; margin: 2em 0 1em 0; font-size: 1.1em; font-weight: 600; display: flex; align-items: center; gap: 8px;">
+<h4 align="left" style="color: #E394DC !important; margin: 2em 0 1em 0; font-size: 1.1em; font-weight: 600; display: flex; align-items: center; gap: 8px;">
   <span style="display: inline-block; width: 8px; height: 8px; background-color: #E394DC; border-radius: 50%;"></span>
-  App Development
+  <font color="#E394DC">App Development</font>
 </h4>
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat&logo=typescript&logoColor=E394DC)](https://www.typescriptlang.org/)
@@ -78,9 +78,9 @@
 [![GraphQL](https://img.shields.io/badge/GraphQL-0D1117?style=flat&logo=graphql&logoColor=E394DC)](https://graphql.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat&logo=tailwindcss&logoColor=E394DC)](https://tailwindcss.com/)
 
-<h4 style="color: #EBC88D; margin: 2em 0 1em 0; font-size: 1.1em; font-weight: 600; display: flex; align-items: center; gap: 8px;">
+<h4 align="left" style="color: #EBC88D !important; margin: 2em 0 1em 0; font-size: 1.1em; font-weight: 600; display: flex; align-items: center; gap: 8px;">
   <span style="display: inline-block; width: 8px; height: 8px; background-color: #EBC88D; border-radius: 50%;"></span>
-  Data Science & AI
+  <font color="#EBC88D">Data Science & AI</font>
 </h4>
 
 [![Python](https://img.shields.io/badge/Python-0D1117?style=flat&logo=python&logoColor=EBC88D)](https://www.python.org/)
@@ -97,17 +97,39 @@
 
 [![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethrdev&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&icon_color=83D6C5&ring_color=EBC88D&include_all_commits=true&count_private=true&hide=issues,contribs)](https://github.com/ethrdev)
 
-<h4 style="color: #EBC88D; margin: 1.5em 0 0.8em 0;">Top Languages</h4>
+<h4 align="left" style="color: #EBC88D !important; margin: 1.5em 0 0.8em 0;">
+  <font color="#EBC88D">Top Languages</font>
+</h4>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethrdev&layout=compact&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&icon_color=83D6C5&border_color=2D3748&card_width=445&text_bold=false&hide=html,css,scss&langs_count=6)](https://github.com/ethrdev)
 
 <div style="margin: 4em auto 2em; max-width: 700px; color: #D6D6DD; text-align: center; font-size: 1.05em;">
   <p style="margin-bottom: 1.8em;">
-    Hast du ein spannendes Projekt mit AI? <a href="mailto:your.email@example.com" style="color: #83D6C5; text-decoration: none; border-bottom: 1px dashed #83D6C5; padding-bottom: 2px; transition: all 0.2s ease;" onmouseover="this.style.color='#5BB8A8'; this.style.borderBottom='1px solid #5BB8A8';" onmouseout="this.style.color='#83D6C5'; this.style.borderBottom='1px dashed #83D6C5';">Lass uns darüber sprechen!</a>
+    <a href="mailto:your.email@example.com" class="artistic-link" style="
+      color: #83D6C5;
+      text-decoration: none;
+      position: relative;
+      padding: 0 6px;
+      font-weight: 500;
+      transition: all 0.3s ease;
+      background: linear-gradient(to right, rgba(131, 214, 197, 0.1), rgba(131, 214, 197, 0), rgba(131, 214, 197, 0.1));
+      border-radius: 4px;
+      display: inline-block;
+    " onmouseover="this.style.background='linear-gradient(to right, rgba(131, 214, 197, 0.2), rgba(131, 214, 197, 0.1), rgba(131, 214, 197, 0.2))'; this.style.transform='translateY(-1px)';" onmouseout="this.style.background='linear-gradient(to right, rgba(131, 214, 197, 0.1), rgba(131, 214, 197, 0), rgba(131, 214, 197, 0.1))'; this.style.transform='translateY(0)';">Got an exciting AI project? Let's bring it to life</a>
   </p>
   <p>
-    <a href="https://calendly.com/yourusername" target="_blank" style="display: inline-flex; align-items: center; color: #EBC88D; text-decoration: none; transition: all 0.2s ease; gap: 6px;" onmouseover="this.style.color='#D9B87C';" onmouseout="this.style.color='#EBC88D';">
-      <span style="font-size: 1.1em;">☕</span> Virtuelle Kaffeepause? Lass uns einen Termin finden
-    </a>
+    <a href="https://calendly.com/yourusername" target="_blank" class="artistic-link" style="
+      color: #EBC88D;
+      text-decoration: none;
+      position: relative;
+      padding: 0 6px;
+      font-weight: 500;
+      transition: all 0.3s ease;
+      background: linear-gradient(to right, rgba(235, 200, 141, 0.1), rgba(235, 200, 141, 0), rgba(235, 200, 141, 0.1));
+      border-radius: 4px;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    " onmouseover="this.style.background='linear-gradient(to right, rgba(235, 200, 141, 0.2), rgba(235, 200, 141, 0.1), rgba(235, 200, 141, 0.2))'; this.style.transform='translateY(-1px)';" onmouseout="this.style.background='linear-gradient(to right, rgba(235, 200, 141, 0.1), rgba(235, 200, 141, 0), rgba(235, 200, 141, 0.1))'; this.style.transform='translateY(0)';">☕ Virtual coffee? Let's find a time</a>
   </p>
 </div>
