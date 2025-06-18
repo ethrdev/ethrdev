@@ -64,9 +64,9 @@
 [![GraphQL](https://img.shields.io/badge/GraphQL-0D1117?style=for-the-badge&logo=graphql&logoColor=E394DC)](https://graphql.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=E394DC)](https://tailwindcss.com/)
 
-<h4 align="left" style="color: #EBC88D !important; margin: 2em 0 1em 0; font-size: 1.1em; font-weight: 600; display: flex; align-items: center; gap: 8px;">
+<h4 align="left" style="color:#EBC88D !important; margin: 2em 0 1em 0; font-size: 1.1em; font-weight: 600; display: flex; align-items: center; gap: 8px;">
   <span style="display: inline-block; width: 8px; height: 8px; background-color: #EBC88D; border-radius: 50%;"></span>
-  <font color="#EBC88D">Data Science & AI</font>
+  <font color=#EBC88D>Data Science & AI</font>
 </h4>
 
 [![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=EBC88D)](https://www.python.org/)
@@ -84,9 +84,6 @@
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; margin: 1.5em 0;">
   <a href="https://github.com/ethrdev">
     <img alt="Stefan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ethrdev&show_icons=true&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&icon_color=83D6C5&ring_color=EBC88D&include_all_commits=true&count_private=true&hide=issues,contribs" />
-  </a>
-  <a href="https://github.com/ethrdev?tab=repositories">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethrdev&layout=compact&bg_color=0D1117&hide_border=true&border_color=2D3748&title_color=83D6C5&text_color=D6D6DD&icon_color=83D6C5&card_width=445&text_bold=false&hide=html,css,scss&langs_count=6&include_private=true&custom_title=Most%20Used%20Languages&border_radius=6&locale=en&cache_seconds=7200" />
   </a>
 </div>
 
