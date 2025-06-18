@@ -101,7 +101,18 @@
   <font color="#EBC88D">Top Languages</font>
 </h4>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethrdev&layout=compact&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&icon_color=83D6C5&border_color=2D3748&card_width=445&text_bold=false&hide=html,css,scss&langs_count=6)](https://github.com/ethrdev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethrdev&layout=compact&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&icon_color=83D6C5&border_color=2D3748&card_width=445&text_bold=false&hide=html,css,scss&langs_count=6&theme=dark&custom_title=Most%20Used%20Languages&border_radius=6&locale=en&cache_seconds=7200)](https://github.com/ethrdev?tab=repositories)
+
+<style>
+.github-stats-card rect { fill: #0D1117 !important; }
+.github-stats-card .lang-name { color: #D6D6DD !important; }
+.github-stats-card .lang-progress:nth-child(1) { background: #83D6C5 !important; }
+.github-stats-card .lang-progress:nth-child(2) { background: #EBC88D !important; }
+.github-stats-card .lang-progress:nth-child(3) { background: #E394DC !important; }
+.github-stats-card .lang-progress:nth-child(4) { background: rgba(131, 214, 197, 0.7) !important; }
+.github-stats-card .lang-progress:nth-child(5) { background: rgba(235, 200, 141, 0.7) !important; }
+.github-stats-card .lang-progress:nth-child(6) { background: rgba(227, 148, 220, 0.7) !important; }
+</style>
 
 <div style="margin: 4em auto 2em; max-width: 700px; color: #D6D6DD; text-align: center; font-size: 1.05em;">
   <p style="margin-bottom: 1.8em;">
