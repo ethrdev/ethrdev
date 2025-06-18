@@ -101,7 +101,7 @@
 
 <h4 style="color: #EBC88D; margin: 1.5em 0 0.8em 0;">Top Languages</h4>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethrdev&layout=compact&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&icon_color=83D6C5&hide=html,css,scss&langs_count=6)](https://github.com/ethrdev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethrdev&layout=compact&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&icon_color=83D6C5&border_color=2D3748&card_width=445&text_bold=false&hide=html,css,scss&langs_count=6)](https://github.com/ethrdev)
 
 <div style="text-align: center; margin: 3em auto; max-width: 800px; display: flex; gap: 1.2rem; justify-content: center; flex-wrap: wrap;">
   <a href="mailto:your.email@example.com" style="
