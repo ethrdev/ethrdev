@@ -1,49 +1,58 @@
-## <div align="center" style="margin: 0.5em 0;">
-  <link href="https://fonts.cdnfonts.com/css/bigblue-terminal-nerd-mono" rel="stylesheet">
-  <style>
-    .terminal-text {
-      font-family: 'BigBlue Terminal Nerd Font', 'BigBlue Terminal 437TT', 'Courier New', monospace;
-      color: #83D6C5;
-      font-weight: 600;
-      letter-spacing: 0.05em;
-      text-shadow: 0 0 10px rgba(131, 214, 197, 0.3);
-      border-bottom: 2px solid #83D6C5;
-      padding-bottom: 0.2em;
-      display: inline-block;
-      font-size: 1.1em;
-    }
-    .decorative-line {
-      font-family: 'BigBlue Terminal Nerd Font', 'BigBlue Terminal 437TT', monospace;
-      color: #737373;
-      font-size: 0.9em;
-      margin: -0.5em 0 1em 0;
-      letter-spacing: 0.2em;
-    }
-  </style>
-  <span class="terminal-text">
+<div align="center">
+  <img src="https://github.com/ethrdev.png" width="120" height="120" style="border-radius: 50%; border: 2px solid #83D6C5; margin-bottom: 1em;">
+</div>
+
+<div align="center" style="margin: 0.5em 0 0.8em 0;">
+  <span style="
+    color: #83D6C5;
+    font-family: 'Fira Code', 'Consolas', monospace;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-shadow: 0 0 10px rgba(131, 214, 197, 0.3);
+    border-bottom: 2px solid #83D6C5;
+    padding: 0 0.8em 0.3em;
+    display: inline-block;
+    line-height: 1.4;
+  ">
     <span style="color: #EBC88D;">╭─❯</span>
-    <span>Stefan</span>
-    <span style="color: #E394DC;">|</span>
-    <span style="color: #83D6C5;">AI</span>
-    <span style="color: #EBC88D;">Engineer</span>
-    <span style="color: #E394DC;">&</span>
-    <span style="color: #83D6C5;">Tech</span>
-    <span style="color: #EBC88D;">Entrepreneur</span>
-    <span style="color: #E394DC;">❮─╯</span>
+    <span style="font-family: 'Fira Code', monospace; font-weight: 600; margin: 0 0.2em;">Stefan</span>
+    <span style="color: #E394DC; margin: 0 0.1em;">│</span>
+    <span style="color: #83D6C5; font-weight: 400; margin: 0 0.1em;">AI</span>
+    <span style="color: #EBC88D; margin: 0 0.1em;">Engineer</span>
+    <span style="color: #E394DC; margin: 0 0.1em;">&</span>
+    <span style="color: #83D6C5; font-weight: 400; margin: 0 0.1em;">Tech</span>
+    <span style="color: #EBC88D; margin: 0 0.1em 0 0.1em;">Entrepreneur</span>
+    <span style="color: #E394DC; margin-left: 0.2em;">❮─╯</span>
   </span>
 </div>
 
-<div align="center" class="decorative-line">
+<div align="center" style="
+  font-family: 'Fira Code', monospace;
+  color: #737373;
+  font-size: 0.9em;
+  margin: -0.5em 0 1.2em 0;
+  letter-spacing: 0.3em;
+  line-height: 1.5;
+">
   <span>✦</span><span>✧</span><span>✦</span><span>✧</span><span>✦</span>
 </div>
 
-<div align="center">
+<div align="center" style="margin: 0 auto; max-width: 800px; padding: 0 1em;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=83D6C5&center=true&vCenter=true&width=600&lines=Building+intelligent+solutions+with+AI;Transforming+ideas+into+scalable+products;Passionate+about+MERN+and+AI+stacks;Creating+impact+through+technology" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=83D6C5&center=true&vCenter=true&width=600&lines=Building+intelligent+solutions+with+AI;Transforming+ideas+into+scalable+products;Passionate+about+MERN+and+AI+stacks;Creating+impact+through+technology" alt="Typing SVG" style="margin: 0.5em 0 1em;" />
   </a>
 </div>
 
-<span style="color: #D6D6DD">AI Engineer with a founder's mindset, specializing in building practical AI solutions that deliver real business value. I combine technical expertise with strategic thinking to create robust, scalable systems.</span>
+<div style="
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 1.2em;
+  color: #D6D6DD;
+  line-height: 1.6;
+  font-size: 1em;
+">
+AI Engineer with a founder's mindset, specializing in building practical AI solutions that deliver real business value. I combine technical expertise with strategic thinking to create robust, scalable systems.
+</div>
 
 ### <span style="color: #83D6C5; display: flex; align-items: center; gap: 8px;"><img src="https://cdn.simpleicons.org/rocket/83D6C5" width="20" alt="About Me" /> About Me</span>
 <ul style="list-style-type: none; padding-left: 0; margin-left: 0;">
@@ -78,54 +87,12 @@
 [![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat&logo=mysql&logoColor=83D6C5)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat&logo=postgresql&logoColor=83D6C5)](https://www.postgresql.org/)
 
-### <span style="color: #EBC88D; display: flex; align-items: center; gap: 8px;"><img src="https://cdn.simpleicons.org/server/83D6C5" width="16" alt="DevOps & Tools" /> DevOps & Tools</span>
-[![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat&logo=docker&logoColor=83D6C5)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=flat&logo=kubernetes&logoColor=83D6C5)](https://kubernetes.io/)
-[![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat&logo=amazonaws&logoColor=83D6C5)](https://aws.amazon.com/)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-0D1117?style=flat&logo=googlecloud&logoColor=83D6C5)](https://cloud.google.com/)
-[![Git](https://img.shields.io/badge/Git-0D1117?style=flat&logo=git&logoColor=83D6C5)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat&logo=github&logoColor=83D6C5)](https://github.com/)
-[![GitLab](https://img.shields.io/badge/GitLab-0D1117?style=flat&logo=gitlab&logoColor=83D6C5)](https://about.gitlab.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat&logo=visualstudiocode&logoColor=83D6C5)](https://code.visualstudio.com/)
 
-## <span style="color: #83D6C5; display: flex; align-items: center; gap: 8px;"><img src="https://cdn.simpleicons.org/github/83D6C5" width="20" alt="GitHub Stats" /> GitHub Stats</span>
+## <span style="color: #83D6C5; display: flex; align-items: center; gap: 8px;"><img src="[https://cdn.simpleicons.org/github/83D6C5"](https://cdn.simpleicons.org/github/83D6C5") width="20" alt="GitHub Stats" /> GitHub Stats</span>
 
-### <span style="color: #EBC88D; display: flex; align-items: center; gap: 8px;"><img src="https://cdn.simpleicons.org/githubactions/83D6C5" width="16" alt="Stats" /> GitHub Stats Card</span>
 [![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethrdev&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&icon_color=E394DC&ring_color=EBC88D&include_all_commits=true&count_private=true)](https://github.com/ethrdev)
 
-### <span style="color: #EBC88D; display: flex; align-items: center; gap: 8px;"><img src="https://cdn.simpleicons.org/code/83D6C5" width="16" alt="Languages" /> Top Languages</span>
+### <span style="color: #EBC88D; display: flex; align-items: center; gap: 8px;"><img src="[https://cdn.simpleicons.org/code/83D6C5"](https://cdn.simpleicons.org/code/83D6C5") width="16" alt="Languages" /> Top Languages</span>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethrdev&layout=compact&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&hide=html,css,scss&langs_count=6)](https://github.com/ethrdev)
 
-### <span style="color: #EBC88D; display: flex; align-items: center; gap: 8px;"><img src="https://cdn.simpleicons.org/flame/83D6C5" width="16" alt="Streak" /> GitHub Streak</span>
-[![GitHub Streak](https://streak-stats.demolab.com?user=ethrdev&theme=github-dark&background=0D1117&border=292929&dates=737373&ring=83D6C5&fire=83D6C5&currStreakNum=D6D6DD&sideNums=D6D6DD&currStreakLabel=83D6C5&sideLabels=737373)](https://git.io/streak-stats)
-
-### <span style="color: #EBC88D; display: flex; align-items: center; gap: 8px;"><img src="https://cdn.simpleicons.org/github/83D6C5" width="16" alt="Projects" /> Featured Repositories</span>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ethrdev&repo=REPO_NAME_1&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&icon_color=E394DC)](https://github.com/ethrdev/REPO_NAME_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ethrdev&repo=REPO_NAME_2&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&icon_color=E394DC)](https://github.com/ethrdev/REPO_NAME_2)
-
-## <span style="color: #83D6C5; display: flex; align-items: center; gap: 8px;"><img src="https://cdn.simpleicons.org/githubactions/83D6C5" width="20" alt="Activity" /> Weekly Activity</span>
-[![Stefan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ethrdev&theme=github-dark&bg_color=0D1117&hide_border=true&line=83D6C5&point=D6D6DD&color=737373&area=true&area_color=163761)](https://github.com/ethrdev)
-
-## <span style="color: #83D6C5; display: flex; align-items: center; gap: 8px;"><img src="https://cdn.simpleicons.org/link/83D6C5" width="20" alt="Connect" /> Let's Connect</span>
-<div style="display: flex; gap: 10px; margin-bottom: 15px;">
-  <a href="https://linkedin.com/in/your-profile" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=83D6C5" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/your-handle" title="Twitter">
-    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=83D6C5" alt="Twitter" />
-  </a>
-  <a href="https://github.com/ethrdev" title="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=83D6C5" alt="GitHub" />
-  </a>
-  <a href="mailto:your.email@example.com" title="Email">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=83D6C5" alt="Email" />
-  </a>
-</div>
-
-## <span style="color: #83D6C5; display: flex; align-items: center; gap: 8px;"><img src="https://cdn.simpleicons.org/book/83D6C5" width="20" alt="Blog" /> Latest Blog Posts</span>
-<ul style="list-style-type: none; padding-left: 0; margin-left: 0;">
-  <li style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
-    <img src="https://cdn.simpleicons.org/bookmark/83D6C5" width="16" alt="Post" />
-    <a href="https://your-blog.com/link-to-post" style="color: #D6D6DD; text-decoration: none;">Blog Post Title</a>
-  </li>
-</ul>
+### <span style="color: #EBC88D; display: flex; align-items:
