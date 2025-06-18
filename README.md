@@ -100,7 +100,7 @@
     <img alt="Stefan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ethrdev&show_icons=true&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&icon_color=83D6C5&ring_color=EBC88D&include_all_commits=true&count_private=true&hide=issues,contribs" />
   </a>
   <a href="https://github.com/ethrdev?tab=repositories">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethrdev&layout=compact&bg_color=0D1117&hide_border=true&border_color=2D3748&title_color=83D6C5&text_color=D6D6DD&card_width=445&text_bold=false&hide=html,css,scss&langs_count=6&include_private=true&custom_title=Most%20Used%20Languages&border_radius=6&locale=en&cache_seconds=7200" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethrdev&layout=compact&bg_color=0D1117&hide_border=true&border_color=EBC88D&title_color=83D6C5&text_color=E394DC&card_width=445&text_bold=false&hide=html,css,scss&langs_count=6&include_private=true&custom_title=Most%20Used%20Languages&border_radius=6&locale=en&cache_seconds=7200" />
   </a>
 </div>
 
