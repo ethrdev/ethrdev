@@ -12,7 +12,7 @@
 </div>
 
 
-<div style="width: 100%; text-align: center; margin: 2em 0;">
+<div style="width: 100%; display: flex; justify-content: center; margin: 2em 0;">
   <div style="display: inline-block; text-align: center; justify-content: center; align-items: center; max-width: 100%;">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=9000&pause=1000&color=83D6C5&center=true&vCenter=true&width=600&lines=Building+intelligent+solutions+with+AI;Transforming+ideas+into+scalable+product" alt="Typing SVG" style="display: block; margin: 0 auto;" />
@@ -61,7 +61,7 @@
   </div>
 </div>
 
-<h3 align="center" style="color: #83D6C5 !important; margin-top: 3em; margin-bottom: 1.5em; font-size: 1.3em; border-bottom: 1px solid rgba(131, 214, 197, 0.3); padding-bottom: 0.5em;">
+<h3 align="left" style="color: #83D6C5 !important; margin-top: 3em; margin-bottom: 1.5em; font-size: 1.3em; border-bottom: 1px solid rgba(131, 214, 197, 0.3); padding-bottom: 0.5em;">
   <font color="#83D6C5">Technologies & Tools</font>
 </h3>
 
@@ -103,24 +103,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethrdev&layout=compact&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&icon_color=83D6C5&border_color=2D3748&card_width=445&text_bold=false&hide=html,css,scss&langs_count=6&theme=dark&custom_title=Most%20Used%20Languages&border_radius=6&locale=en&cache_seconds=7200)](https://github.com/ethrdev?tab=repositories)
 
-<style>
-.github-stats-card rect { fill: #0D1117 !important; }
-.github-stats-card .lang-name { color: #D6D6DD !important; }
-.github-stats-card .lang-progress:nth-child(1) { background: #83D6C5 !important; }
-.github-stats-card .lang-progress:nth-child(2) { background: #EBC88D !important; }
-.github-stats-card .lang-progress:nth-child(3) { background: #E394DC !important; }
-.github-stats-card .lang-progress:nth-child(4) { background: rgba(131, 214, 197, 0.7) !important; }
-.github-stats-card .lang-progress:nth-child(5) { background: rgba(235, 200, 141, 0.7) !important; }
-.github-stats-card .lang-progress:nth-child(6) { background: rgba(227, 148, 220, 0.7) !important; }
-</style>
+
 
 <div style="text-align: center; margin: 4em auto 3em; max-width: 700px;">
   <a href="mailto:your.email@example.com" style="display: inline-block; margin-bottom: 1em; text-decoration: none;">
     <img alt="Business Inquiries" src="https://img.shields.io/badge/🚀_Got_an_exciting_project%3F-Let's_build_together-83D6C5?style=for-the-badge&labelColor=0D1117&color=83D6C5">
   </a>
-  
+
   <br>
-  
+
   <a href="https://calendly.com/yourusername" target="_blank" style="display: inline-block; text-decoration: none;">
     <img alt="Schedule a Call" src="https://img.shields.io/badge/☕_Virtual_coffee%3F-Let's_find_a_time-EBC88D?style=for-the-badge&labelColor=0D1117&color=EBC88D">
   </a>
