@@ -12,24 +12,25 @@
 </div>
 
 
-<div style="width: 100%; text-align: center; margin: 2em auto; max-width: 800px; padding: 0 1em; box-sizing: border-box;">
-  <a href="https://git.io/typing-svg" style="display: inline-block; width: 100%;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=83D6C5&center=true&vCenter=true&width=100%25&lines=Building+intelligent+solutions+with+AI;Transforming+ideas+into+scalable+product" alt="Typing SVG" style="margin: 0; display: block; width: 100%;" />
+<div style="text-align: center; margin: 1.5em auto; max-width: 600px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1000&color=83D6C5&center=true&vCenter=true&width=100%25&lines=Building+intelligent+solutions+with+AI;Transforming+ideas+into+scalable+product" alt="Typing SVG" style="display: block; margin: 0 auto; height: 1.5em;" />
   </a>
 </div>
 
-
-
-<div style="
-  max-width: 800px;
-  margin: 2em auto;
-  padding: 0 1.2em;
-  color: #D6D6DD;
-  line-height: 1.6;
-  font-size: 1em;">
-  <p>AI Engineer with a founder's mindset, specializing in building practical AI solutions that deliver real business value</p>
-  <p>Technical expertise combined with strategic thinking for robust, scalable systems</p>
-  <p>Focused on creating impactful, production-ready AI applications</p>
+<div style="max-width: 700px; margin: 0 auto; padding: 0 1.2em; color: #D6D6DD; line-height: 1.6; font-size: 1em;">
+  <div style="display: flex; align-items: flex-start; margin-bottom: 0.5em; gap: 8px;">
+    <span style="color: #83D6C5;">▲</span>
+    <span>AI Engineer with a founder's mindset, specializing in building practical AI solutions that deliver real business value</span>
+  </div>
+  <div style="display: flex; align-items: flex-start; margin-bottom: 0.5em; gap: 8px;">
+    <span style="color: #83D6C5;">▲</span>
+    <span>Technical expertise combined with strategic thinking for robust, scalable systems</span>
+  </div>
+  <div style="display: flex; align-items: flex-start; gap: 8px;">
+    <span style="color: #83D6C5;">▲</span>
+    <span>Focused on creating impactful, production-ready AI applications</span>
+  </div>
 </div>
 
 <span style="color: #83D6C5; display: flex; align-items: center; gap: 8px;">■ About Me</span>
@@ -45,9 +46,7 @@
   <span style="color: #83D6C5;">🛠</span> Technologies & Tools
 </h3>
 
-<h4 style="color: #EBC88D; display: flex; align-items: center; gap: 8px; margin: 1.2em 0 0.5em 0;">
-  <span style="color: #EBC88D;">💻</span> App Development
-</h4>
+<h4 style="color: #EBC88D; margin: 1.5em 0 0.8em 0;">App Development</h4>
 
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat&logo=typescript&logoColor=83D6C5)](https://www.typescriptlang.org/)
@@ -59,9 +58,7 @@
 [![GraphQL](https://img.shields.io/badge/GraphQL-0D1117?style=flat&logo=graphql&logoColor=83D6C5)](https://graphql.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat&logo=tailwindcss&logoColor=83D6C5)](https://tailwindcss.com/)
 
-<h4 style="color: #EBC88D; display: flex; align-items: center; gap: 8px; margin: 1.2em 0 0.5em 0;">
-  <span style="color: #EBC88D;">🧠</span> Data Science & AI
-</h4>
+<h4 style="color: #EBC88D; margin: 1.5em 0 0.8em 0;">Data Science & AI</h4>
 
 [![Python](https://img.shields.io/badge/Python-0D1117?style=flat&logo=python&logoColor=83D6C5)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=flat&logo=tensorflow&logoColor=83D6C5)](https://www.tensorflow.org/)
@@ -75,49 +72,53 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat&logo=postgresql&logoColor=83D6C5)](https://www.postgresql.org/)
 
 ## <span style="color: #83D6C5; display: flex; align-items: center; gap: 8px;">
-  <img src="https://cdn.simpleicons.org/github/83D6C5" width="20" height="20" alt="GitHub Stats" onerror="this.style.display='none'" /> 
+  <img src="https://cdn.simpleicons.org/github/83D6C5" width="20" height="20" alt="GitHub Stats" onerror="this.style.display='none'" />
   GitHub Stats
 </span>
 
 [![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethrdev&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&icon_color=E394DC&ring_color=EBC88D&include_all_commits=true&count_private=true)](https://github.com/ethrdev)
 
-<h4 style="color: #EBC88D; display: flex; align-items: center; gap: 8px; margin: 1.2em 0 0.5em 0;">
-  <span style="color: #EBC88D;">🔠</span> Top Languages
-</h4>
+<h4 style="color: #EBC88D; margin: 1.5em 0 0.8em 0;">Top Languages</h4>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethrdev&layout=compact&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&hide=html,css,scss&langs_count=6)](https://github.com/ethrdev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethrdev&layout=compact&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&icon_color=83D6C5&hide=html,css,scss&langs_count=6)](https://github.com/ethrdev)
 
-<div style="text-align: center; margin: 2em auto; max-width: 800px; display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+<div style="text-align: center; margin: 3em auto; max-width: 800px; display: flex; gap: 1.2rem; justify-content: center; flex-wrap: wrap;">
   <a href="mailto:your.email@example.com" style="
-    background-color: #83D6C5;
+    background: linear-gradient(135deg, #83D6C5 0%, #5BB8A8 100%);
     color: #0D1117;
-    padding: 0.8rem 1.5rem;
-    border-radius: 4px;
+    padding: 0.9rem 2rem;
+    border-radius: 6px;
     text-decoration: none;
     font-weight: 600;
     font-family: 'Fira Code', monospace;
-    transition: all 0.2s ease;
+    transition: all 0.3s ease;
     display: inline-flex;
     align-items: center;
-    gap: 0.5rem;
-    border: 1px solid #83D6C5;
-  ">
-    <span>✉️</span> Business Inquiry
+    gap: 0.7rem;
+    border: none;
+    box-shadow: 0 4px 15px rgba(131, 214, 197, 0.3);
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+  " onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 20px rgba(131, 214, 197, 0.4)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 15px rgba(131, 214, 197, 0.3)';">
+    <span style="font-size: 1.1em;">✉️</span> Business Inquiry
   </a>
   <a href="https://calendly.com/yourusername" target="_blank" style="
-    background-color: transparent;
+    background: transparent;
     color: #83D6C5;
-    padding: 0.8rem 1.5rem;
-    border-radius: 4px;
+    padding: 0.9rem 2rem;
+    border-radius: 6px;
     text-decoration: none;
     font-weight: 600;
     font-family: 'Fira Code', monospace;
-    transition: all 0.2s ease;
-    border: 1px solid #83D6C5;
+    transition: all 0.3s ease;
+    border: 2px solid #83D6C5;
     display: inline-flex;
     align-items: center;
-    gap: 0.5rem;
-  ">
-    <span>📅</span> Schedule a Call
+    gap: 0.7rem;
+    position: relative;
+    z-index: 1;
+  " onmouseover="this.style.background='rgba(131, 214, 197, 0.1)'; this.style.transform='translateY(-2px)';" onmouseout="this.style.background='transparent'; this.style.transform='translateY(0)';">
+    <span style="font-size: 1.1em;">📅</span> Schedule a Call
   </a>
 </div>
