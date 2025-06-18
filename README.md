@@ -64,7 +64,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat&logo=postgresql&logoColor=83D6C5)](https://www.postgresql.org/)
 
 
-## <span style="color: #83D6C5; display: flex; align-items: center; gap: 8px;"><img src="[https://cdn.simpleicons.org/github/83D6C5"](https://cdn.simpleicons.org/github/83D6C5") width="20" alt="GitHub Stats" /> GitHub Stats</span>
+## <span style="color: #83D6C5; display: flex; align-items: center; gap: 8px;"><img src="https://cdn.simpleicons.org/github/83D6C5" width="20" alt="GitHub Stats" /> GitHub Stats</span>
 
 [![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethrdev&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&icon_color=E394DC&ring_color=EBC88D&include_all_commits=true&count_private=true)](https://github.com/ethrdev)
 
