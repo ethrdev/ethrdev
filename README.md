@@ -40,11 +40,11 @@
   <ul style="list-style-type: none; padding-left: 0; margin: 0;">
     <li style="display: flex; align-items: flex-start; margin-bottom: 0.5em; gap: 8px;">
       <span style="color: #83D6C5; flex-shrink: 0; margin-top: 0.2em;">▲</span>
-      <span style="color: #D6D6DD;"><strong>AI Engineer</strong> with expertise in modern AI/ML technologies</span>
+      <span style="color: #D6D6DD;"><strong style="color: #83D6C5;">AI Engineer</strong> with expertise in modern AI/ML technologies</span>
     </li>
     <li style="display: flex; align-items: flex-start; margin-bottom: 0.5em; gap: 8px;">
       <span style="color: #83D6C5; flex-shrink: 0; margin-top: 0.2em;">▲</span>
-      <span style="color: #D6D6DD;"><strong>Tech Entrepreneur</strong> with experience in building and scaling SaaS products</span>
+      <span style="color: #D6D6DD;"><strong style="color: #83D6C5;">Tech Entrepreneur</strong> with experience in building and scaling SaaS products</span>
     </li>
     <li style="display: flex; align-items: flex-start; margin-bottom: 0.5em; gap: 8px;">
       <span style="color: #83D6C5; flex-shrink: 0; margin-top: 0.2em;">▲</span>
