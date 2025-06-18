@@ -5,22 +5,22 @@ Full-Stack Developer with a focus on modern web development and data science. I 
 ## 🛠️ Technologies & Tools
 
 ### App Development
-![TypeScript](https://img.shields.io/badge/TypeScript-2F3741?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-2F3741?style=flat&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-2F3741?style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-2F3741?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2F3741?style=flat&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-181818?style=flat&logo=typescript&logoColor=00C4CC)
+![JavaScript](https://img.shields.io/badge/JavaScript-181818?style=flat&logo=javascript&logoColor=00C4CC)
+![React](https://img.shields.io/badge/React-181818?style=flat&logo=react&logoColor=00C4CC)
+![Next.js](https://img.shields.io/badge/Next.js-181818?style=flat&logo=nextdotjs&logoColor=00C4CC)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-181818?style=flat&logo=tailwind-css&logoColor=00C4CC)
 
 ### Data Science & AI
-![Python](https://img.shields.io/badge/Python-2F3741?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2F3741?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-2F3741?style=flat&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-2F3741?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2F3741?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-2F3741?style=flat&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-2F3741?style=flat&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-2F3741?style=flat&logo=chromium&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-2F3741?style=flat&logo=sql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-181818?style=flat&logo=python&logoColor=00C4CC)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-181818?style=flat&logo=tensorflow&logoColor=00C4CC)
+![PyTorch](https://img.shields.io/badge/PyTorch-181818?style=flat&logo=pytorch&logoColor=00C4CC)
+![NumPy](https://img.shields.io/badge/Numpy-181818?style=flat&logo=numpy&logoColor=00C4CC)
+![Pandas](https://img.shields.io/badge/Pandas-181818?style=flat&logo=pandas&logoColor=00C4CC)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-181818?style=flat&logo=scikit-learn&logoColor=00C4CC)
+![LangChain](https://img.shields.io/badge/LangChain-181818?style=flat&logo=langchain&logoColor=00C4CC)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-181818?style=flat&logo=chromium&logoColor=00C4CC)
+![SQL](https://img.shields.io/badge/SQL-181818?style=flat&logo=sql&logoColor=00C4CC)
 
 ## 📊 GitHub Statistics
 
