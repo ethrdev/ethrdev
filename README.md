@@ -82,10 +82,6 @@
 #
 #
 #
----
-#
-#
-#
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; margin: 1.5em 0;">
   <a href="https://github.com/ethrdev">
     <img alt="Stefan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ethrdev&show_icons=true&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&icon_color=83D6C5&ring_color=EBC88D&include_all_commits=true&count_private=true&hide=issues,contribs" />
