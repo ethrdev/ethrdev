@@ -96,10 +96,6 @@
 [![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat&logo=mysql&logoColor=83D6C5)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat&logo=postgresql&logoColor=83D6C5)](https://www.postgresql.org/)
 
-## <span style="color: #83D6C5; display: flex; align-items: center; gap: 8px;">
-  <img src="https://cdn.simpleicons.org/github/83D6C5" width="20" height="20" alt="GitHub Stats" onerror="this.style.display='none'" />
-  GitHub Stats
-</span>
 
 [![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethrdev&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&icon_color=83D6C5&ring_color=EBC88D&include_all_commits=true&count_private=true&hide=issues,contribs)](https://github.com/ethrdev)
 
