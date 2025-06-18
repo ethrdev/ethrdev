@@ -13,9 +13,9 @@
 
 
 <div style="width: 100%; text-align: center; margin: 2em 0;">
-  <div style="display: inline-block; text-align: center; max-width: 100%;">
+  <div style="display: inline-block; text-align: center; justify-content: center; align-items: center; max-width: 100%;">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=83D6C5&center=true&vCenter=true&width=600&lines=Building+intelligent+solutions+with+AI;Transforming+ideas+into+scalable+product" alt="Typing SVG" style="display: block; margin: 0 auto;" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=9000&pause=1000&color=83D6C5&center=true&vCenter=true&width=600&lines=Building+intelligent+solutions+with+AI;Transforming+ideas+into+scalable+product" alt="Typing SVG" style="display: block; margin: 0 auto;" />
     </a>
   </div>
 </div>
@@ -48,15 +48,15 @@
     </li>
     <li style="display: flex; align-items: flex-start; margin-bottom: 0.5em; gap: 8px;">
       <span style="color: #83D6C5; flex-shrink: 0; margin-top: 0.2em;">▲</span>
-      <span style="color: #D6D6DD;"><strong>Results-driven</strong> with a focus on practical, impactful solutions</span>
+      <span style="color: #D6D6DD;"><strong style="color: #83D6C5;">Results-driven</strong> with a focus on practical, impactful solutions</span>
     </li>
     <li style="display: flex; align-items: flex-start; margin-bottom: 0.5em; gap: 8px;">
       <span style="color: #83D6C5; flex-shrink: 0; margin-top: 0.2em;">▲</span>
-      <span style="color: #D6D6DD;">Continuously expanding expertise in cutting-edge AI technologies</span>
+      <span style="color: #D6D6DD;"><strong style="color: #83D6C5;">Continuously expanding expertise in cutting-edge AI technologies</strong></span>
     </li>
     <li style="display: flex; align-items: flex-start; gap: 8px;">
       <span style="color: #83D6C5; flex-shrink: 0; margin-top: 0.2em;">▲</span>
-      <span style="color: #D6D6DD;">Passionate about transforming strategic vision into technological reality</span>
+      <span style="color: #D6D6DD;"><strong style="color: #83D6C5;">Passionate about transforming strategic vision into technological reality</strong></span>
     </li>
   </ul>
 </div>
