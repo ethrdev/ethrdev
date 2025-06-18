@@ -41,7 +41,7 @@
   </div>
 </div>
 
-### <span style="color: #83D6C5; display: flex; align-items: center; gap: 8px;">■ About Me</span>
+<span style="color: #83D6C5; display: flex; align-items: center; gap: 8px;">■ About Me</span>
 <ul style="list-style-type: none; padding-left: 0; margin-left: 0;">
   <li style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;"><span style="color: #83D6C5;">■</span> <span style="color: #D6D6DD"><strong>AI Engineer</strong> with expertise in modern AI/ML technologies</span></li>
   <li style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;"><span style="color: #83D6C5;">■</span> <span style="color: #D6D6DD"><strong>Tech Entrepreneur</strong> with experience in building and scaling SaaS products</span></li>
@@ -50,9 +50,9 @@
   <li style="display: flex; align-items: center; gap: 8px;"><span style="color: #83D6C5;">■</span> <span style="color: #D6D6DD">Passionate about transforming strategic vision into technological reality</span></li>
 </ul>
 
-## <span style="color: #83D6C5; display: flex; align-items: center; gap: 8px;"><img src="https://cdn.simpleicons.org/tools/83D6C5" width="20" alt="Technologies" /> Technologies & Tools</span>
+<span style="color: #83D6C5; display: flex; align-items: center; gap: 8px;"><img src="https://cdn.simpleicons.org/tools/83D6C5" width="20" alt="Technologies" /> Technologies & Tools</span>
 
-### <span style="color: #EBC88D; display: flex; align-items: center; gap: 8px;"><img src="https://cdn.simpleicons.org/code/83D6C5" width="16" alt="App Development" /> App Development</span>
+<span style="color: #EBC88D; display: flex; align-items: center; gap: 8px;"><img src="https://cdn.simpleicons.org/code/83D6C5" width="16" alt="App Development" /> App Development</span>
 [![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat&logo=typescript&logoColor=83D6C5)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat&logo=javascript&logoColor=83D6C5)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-0D1117?style=flat&logo=react&logoColor=83D6C5)](https://reactjs.org/)
@@ -62,7 +62,7 @@
 [![GraphQL](https://img.shields.io/badge/GraphQL-0D1117?style=flat&logo=graphql&logoColor=83D6C5)](https://graphql.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat&logo=tailwindcss&logoColor=83D6C5)](https://tailwindcss.com/)
 
-### <span style="color: #EBC88D; display: flex; align-items: center; gap: 8px;"><img src="https://cdn.simpleicons.org/brain/83D6C5" width="16" alt="Data Science & AI" /> Data Science & AI</span>
+<span style="color: #EBC88D; display: flex; align-items: center; gap: 8px;"><img src="https://cdn.simpleicons.org/brain/83D6C5" width="16" alt="Data Science & AI" /> Data Science & AI</span>
 [![Python](https://img.shields.io/badge/Python-0D1117?style=flat&logo=python&logoColor=83D6C5)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=flat&logo=tensorflow&logoColor=83D6C5)](https://www.tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat&logo=pytorch&logoColor=83D6C5)](https://pytorch.org/)
