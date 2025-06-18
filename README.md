@@ -97,11 +97,7 @@
 
 [![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethrdev&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&icon_color=83D6C5&ring_color=EBC88D&include_all_commits=true&count_private=true&hide=issues,contribs)](https://github.com/ethrdev)
 
-<h4 align="left" style="color: #EBC88D !important; margin: 1.5em 0 0.8em 0;">
-  <font color="#EBC88D">Top Languages</font>
-</h4>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethrdev&layout=compact&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&icon_color=83D6C5&border_color=2D3748&card_width=445&text_bold=false&hide=html,css,scss&langs_count=6&theme=dark&custom_title=Most%20Used%20Languages&border_radius=6&locale=en&cache_seconds=7200)](https://github.com/ethrdev?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethrdev&layout=compact&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&icon_color=83D6C5&border_color=2D3748&card_width=445&text_bold=false&hide=html,css,scss&langs_count=6&include_private=true&theme=dark&custom_title=Most%20Used%20Languages&border_radius=6&locale=en&cache_seconds=7200)](https://github.com/ethrdev?tab=repositories)
 
 
 
