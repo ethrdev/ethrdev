@@ -1,7 +1,6 @@
 ## <div align="center" style="margin: 0.5em 0;">
   <link href="https://fonts.cdnfonts.com/css/bigblue-terminal-nerd-mono" rel="stylesheet">
   <style>
-    @import url('https://fonts.cdnfonts.com/css/bigblue-terminal-nerd-mono');
     .terminal-text {
       font-family: 'BigBlue Terminal Nerd Font', 'BigBlue Terminal 437TT', 'Courier New', monospace;
       color: #83D6C5;
