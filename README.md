@@ -12,10 +12,12 @@
 </div>
 
 
-<div style="width: 100%; text-align: center; margin: 0 auto; max-width: 800px; padding: 0 1em; box-sizing: border-box;">
-  <a href="https://git.io/typing-svg" style="display: inline-block; width: 100%;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=83D6C5&center=true&vCenter=true&width=100%25&lines=Building+intelligent+solutions+with+AI;Transforming+ideas+into+scalable+product" alt="Typing SVG" style="margin: 0.5em 0; display: inline-block; max-width: 100%;" />
-  </a>
+<div style="display: flex; align-items: center; justify-content: center; margin: 0 auto; max-width: 800px; padding: 0 1em;">
+  <span style="color: #83D6C5; margin-right: 0.5em;">
+    <a href="https://git.io/typing-svg" style="display: inline-block; width: 100%;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=83D6C5&center=true&vCenter=true&width=100%25&lines=Building+intelligent+solutions+with+AI;Transforming+ideas+into+scalable+product" alt="Typing SVG" style="margin: 0.5em 0; display: inline-block; max-width: 100%;" />
+    </a>
+  </span>
 </div>
 
 <div style="
@@ -39,13 +41,13 @@
   </div>
 </div>
 
-### <span style="color: #83D6C5; display: flex; align-items: center; gap: 8px;"><img src="https://cdn.simpleicons.org/rocket/83D6C5" width="20" alt="About Me" /> About Me</span>
+### <span style="color: #83D6C5; display: flex; align-items: center; gap: 8px;">■ About Me</span>
 <ul style="list-style-type: none; padding-left: 0; margin-left: 0;">
-  <li style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;"><img src="https://cdn.simpleicons.org/lightbulb/83D6C5" width="16" alt="AI" /> <span style="color: #D6D6DD"><strong>AI Engineer</strong> with expertise in modern AI/ML technologies</span></li>
-  <li style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;"><img src="https://cdn.simpleicons.org/building/83D6C5" width="16" alt="Entrepreneur" /> <span style="color: #D6D6DD"><strong>Tech Entrepreneur</strong> with experience in building and scaling SaaS products</span></li>
-  <li style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;"><img src="https://cdn.simpleicons.org/target/83D6C5" width="16" alt="Results" /> <span style="color: #D6D6DD"><strong>Results-driven</strong> with a focus on practical, impactful solutions</span></li>
-  <li style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;"><img src="https://cdn.simpleicons.org/magnify/83D6C5" width="16" alt="Expertise" /> <span style="color: #D6D6DD">Continuously expanding expertise in cutting-edge AI technologies</span></li>
-  <li style="display: flex; align-items: center; gap: 8px;"><img src="https://cdn.simpleicons.org/rocketlaunch/83D6C5" width="16" alt="Passion" /> <span style="color: #D6D6DD">Passionate about transforming strategic vision into technological reality</span></li>
+  <li style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;"><span style="color: #83D6C5;">■</span> <span style="color: #D6D6DD"><strong>AI Engineer</strong> with expertise in modern AI/ML technologies</span></li>
+  <li style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;"><span style="color: #83D6C5;">■</span> <span style="color: #D6D6DD"><strong>Tech Entrepreneur</strong> with experience in building and scaling SaaS products</span></li>
+  <li style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;"><span style="color: #83D6C5;">■</span> <span style="color: #D6D6DD"><strong>Results-driven</strong> with a focus on practical, impactful solutions</span></li>
+  <li style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;"><span style="color: #83D6C5;">■</span> <span style="color: #D6D6DD">Continuously expanding expertise in cutting-edge AI technologies</span></li>
+  <li style="display: flex; align-items: center; gap: 8px;"><span style="color: #83D6C5;">■</span> <span style="color: #D6D6DD">Passionate about transforming strategic vision into technological reality</span></li>
 </ul>
 
 ## <span style="color: #83D6C5; display: flex; align-items: center; gap: 8px;"><img src="https://cdn.simpleicons.org/tools/83D6C5" width="20" alt="Technologies" /> Technologies & Tools</span>
