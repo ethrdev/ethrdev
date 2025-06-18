@@ -1,4 +1,12 @@
+# <img src="https://github.com/ethrdev.png" width="120" height="120" style="border-radius: 50%; border: 2px solid #83D6C5;">
+
 ## <span style="color: #D6D6DD">Stefan | AI Engineer & Tech Entrepreneur</span>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=83D6C5&center=true&vCenter=true&width=600&lines=Building+intelligent+solutions+with+AI;Transforming+ideas+into+scalable+products;Passionate+about+MERN+and+AI+stacks;Creating+impact+through+technology" alt="Typing SVG" />
+  </a>
+</div>
 
 <span style="color: #D6D6DD">AI Engineer with a founder's mindset, specializing in building practical AI solutions that deliver real business value. I combine technical expertise with strategic thinking to create robust, scalable systems.</span>
 
@@ -14,42 +22,36 @@
 ## <span style="color: #83D6C5; display: flex; align-items: center; gap: 8px;"><img src="https://cdn.simpleicons.org/tools/83D6C5" width="20" alt="Technologies" /> Technologies & Tools</span>
 
 ### <span style="color: #EBC88D; display: flex; align-items: center; gap: 8px;"><img src="https://cdn.simpleicons.org/code/83D6C5" width="16" alt="App Development" /> App Development</span>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px;">
-  <img src="https://cdn.simpleicons.org/typescript/83D6C5" height="24" alt="TypeScript" title="TypeScript" />
-  <img src="https://cdn.simpleicons.org/javascript/83D6C5" height="24" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.simpleicons.org/react/83D6C5" height="24" alt="React" title="React" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/83D6C5" height="24" alt="Next.js" title="Next.js" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/83D6C5" height="24" alt="Tailwind CSS" title="Tailwind CSS" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/83D6C5" height="24" alt="Node.js" title="Node.js" />
-  <img src="https://cdn.simpleicons.org/express/83D6C5" height="24" alt="Express" title="Express" />
-  <img src="https://cdn.simpleicons.org/graphql/83D6C5" height="24" alt="GraphQL" title="GraphQL" />
-</div>
+[![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat&logo=typescript&logoColor=83D6C5)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat&logo=javascript&logoColor=83D6C5)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-0D1117?style=flat&logo=react&logoColor=83D6C5)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat&logo=nextdotjs&logoColor=83D6C5)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat&logo=nodedotjs&logoColor=83D6C5)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-0D1117?style=flat&logo=express&logoColor=83D6C5)](https://expressjs.com/)
+[![GraphQL](https://img.shields.io/badge/GraphQL-0D1117?style=flat&logo=graphql&logoColor=83D6C5)](https://graphql.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat&logo=tailwindcss&logoColor=83D6C5)](https://tailwindcss.com/)
 
 ### <span style="color: #EBC88D; display: flex; align-items: center; gap: 8px;"><img src="https://cdn.simpleicons.org/brain/83D6C5" width="16" alt="Data Science & AI" /> Data Science & AI</span>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px;">
-  <img src="https://cdn.simpleicons.org/python/83D6C5" height="24" alt="Python" title="Python" />
-  <img src="https://cdn.simpleicons.org/tensorflow/83D6C5" height="24" alt="TensorFlow" title="TensorFlow" />
-  <img src="https://cdn.simpleicons.org/pytorch/83D6C5" height="24" alt="PyTorch" title="PyTorch" />
-  <img src="https://cdn.simpleicons.org/numpy/83D6C5" height="24" alt="NumPy" title="NumPy" />
-  <img src="https://cdn.simpleicons.org/pandas/83D6C5" height="24" alt="Pandas" title="Pandas" />
-  <img src="https://cdn.simpleicons.org/scikitlearn/83D6C5" height="24" alt="scikit-learn" title="scikit-learn" />
-  <img src="https://cdn.simpleicons.org/langchain/83D6C5" height="24" alt="LangChain" title="LangChain" />
-  <img src="https://cdn.simpleicons.org/chromium/83D6C5" height="24" alt="ChromaDB" title="ChromaDB" />
-  <img src="https://cdn.simpleicons.org/mysql/83D6C5" height="24" alt="MySQL" title="MySQL" />
-  <img src="https://cdn.simpleicons.org/postgresql/83D6C5" height="24" alt="PostgreSQL" title="PostgreSQL" />
-</div>
+[![Python](https://img.shields.io/badge/Python-0D1117?style=flat&logo=python&logoColor=83D6C5)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=flat&logo=tensorflow&logoColor=83D6C5)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat&logo=pytorch&logoColor=83D6C5)](https://pytorch.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat&logo=numpy&logoColor=83D6C5)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat&logo=pandas&logoColor=83D6C5)](https://pandas.pydata.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=flat&logo=scikit-learn&logoColor=83D6C5)](https://scikit-learn.org/)
+[![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat&logo=langchain&logoColor=83D6C5)](https://python.langchain.com/)
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-0D1117?style=flat&logo=chromium&logoColor=83D6C5)](https://www.trychroma.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat&logo=mysql&logoColor=83D6C5)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat&logo=postgresql&logoColor=83D6C5)](https://www.postgresql.org/)
 
 ### <span style="color: #EBC88D; display: flex; align-items: center; gap: 8px;"><img src="https://cdn.simpleicons.org/server/83D6C5" width="16" alt="DevOps & Tools" /> DevOps & Tools</span>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px;">
-  <img src="https://cdn.simpleicons.org/docker/83D6C5" height="24" alt="Docker" title="Docker" />
-  <img src="https://cdn.simpleicons.org/kubernetes/83D6C5" height="24" alt="Kubernetes" title="Kubernetes" />
-  <img src="https://cdn.simpleicons.org/amazonaws/83D6C5" height="24" alt="AWS" title="AWS" />
-  <img src="https://cdn.simpleicons.org/googlecloud/83D6C5" height="24" alt="Google Cloud" title="Google Cloud" />
-  <img src="https://cdn.simpleicons.org/git/83D6C5" height="24" alt="Git" title="Git" />
-  <img src="https://cdn.simpleicons.org/github/83D6C5" height="24" alt="GitHub" title="GitHub" />
-  <img src="https://cdn.simpleicons.org/gitlab/83D6C5" height="24" alt="GitLab" title="GitLab" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/83D6C5" height="24" alt="VS Code" title="VS Code" />
-</div>
+[![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat&logo=docker&logoColor=83D6C5)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=flat&logo=kubernetes&logoColor=83D6C5)](https://kubernetes.io/)
+[![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat&logo=amazonaws&logoColor=83D6C5)](https://aws.amazon.com/)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-0D1117?style=flat&logo=googlecloud&logoColor=83D6C5)](https://cloud.google.com/)
+[![Git](https://img.shields.io/badge/Git-0D1117?style=flat&logo=git&logoColor=83D6C5)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat&logo=github&logoColor=83D6C5)](https://github.com/)
+[![GitLab](https://img.shields.io/badge/GitLab-0D1117?style=flat&logo=gitlab&logoColor=83D6C5)](https://about.gitlab.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat&logo=visualstudiocode&logoColor=83D6C5)](https://code.visualstudio.com/)
 
 ## <span style="color: #83D6C5; display: flex; align-items: center; gap: 8px;"><img src="https://cdn.simpleicons.org/github/83D6C5" width="20" alt="GitHub Stats" /> GitHub Stats</span>
 
@@ -72,16 +74,16 @@
 ## <span style="color: #83D6C5; display: flex; align-items: center; gap: 8px;"><img src="https://cdn.simpleicons.org/link/83D6C5" width="20" alt="Connect" /> Let's Connect</span>
 <div style="display: flex; gap: 10px; margin-bottom: 15px;">
   <a href="https://linkedin.com/in/your-profile" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/83D6C5" height="24" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=83D6C5" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/your-handle" title="Twitter">
-    <img src="https://cdn.simpleicons.org/twitter/83D6C5" height="24" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=83D6C5" alt="Twitter" />
   </a>
   <a href="https://github.com/ethrdev" title="GitHub">
-    <img src="https://cdn.simpleicons.org/github/83D6C5" height="24" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=83D6C5" alt="GitHub" />
   </a>
   <a href="mailto:your.email@example.com" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail/83D6C5" height="24" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=83D6C5" alt="Email" />
   </a>
 </div>
 
