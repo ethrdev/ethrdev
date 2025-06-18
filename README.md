@@ -12,9 +12,9 @@
 </div>
 
 
-<div style="display: flex; align-items: center; justify-content: center; margin: 0 auto; max-width: 800px; padding: 0 1em;">
-  <a href="https://git.io/typing-svg" style="flex-grow: 1;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=83D6C5&vCenter=true&width=100%25&lines=Building+intelligent+solutions+with+AI;Transforming+ideas+into+scalable+product" alt="Typing SVG" style="margin: 0.5em 0;" />
+<div style="width: 100%; text-align: center; margin: 0 auto; max-width: 800px; padding: 0 1em; box-sizing: border-box;">
+  <a href="https://git.io/typing-svg" style="display: inline-block; width: 100%;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=83D6C5&center=true&vCenter=true&width=100%25&lines=Building+intelligent+solutions+with+AI;Transforming+ideas+into+scalable+product" alt="Typing SVG" style="margin: 0.5em 0; display: inline-block; max-width: 100%;" />
   </a>
 </div>
 
@@ -26,15 +26,15 @@
   line-height: 1.6;
   font-size: 1em;">
   <div style="display: flex; align-items: flex-start; margin-bottom: 0.5em;">
-    <span style="color: #83D6C5; margin-right: 0.5em;">▼</span>
+    <span style="color: #83D6C5; margin-right: 0.5em;">▲</span>
     <span>AI Engineer with a founder's mindset, specializing in building practical AI solutions that deliver real business value</span>
   </div>
   <div style="display: flex; align-items: flex-start; margin-bottom: 0.5em;">
-    <span style="color: #83D6C5; margin-right: 0.5em;">▼</span>
+    <span style="color: #83D6C5; margin-right: 0.5em;">▲</span>
     <span>Technical expertise combined with strategic thinking for robust, scalable systems</span>
   </div>
   <div style="display: flex; align-items: flex-start;">
-    <span style="color: #83D6C5; margin-right: 0.5em;">▼</span>
+    <span style="color: #83D6C5; margin-right: 0.5em;">▲</span>
     <span>Focused on creating impactful, production-ready AI applications</span>
   </div>
 </div>
