@@ -106,15 +106,12 @@
 
 
 <div style="display: flex; flex-direction: column; align-items: center;">
-<div style="text-align: center; margin: 4em auto 3em; max-width: 700px;">
-  <a href="mailto:your.email@example.com" style="display: inline-block; margin-bottom: 1em; text-decoration: none;">
-    <img alt="Business Inquiries" src="https://img.shields.io/badge/🚀_Got_an_exciting_project%3F-Let's_build_together-83D6C5?style=for-the-badge&labelColor=0D1117&color=83D6C5">
-  </a>
-
-  <br>
-
-  <a href="https://calendly.com/yourusername" target="_blank" style="display: inline-block; text-decoration: none;">
-    <img alt="Schedule a Call" src="https://img.shields.io/badge/☕_Virtual_coffee%3F-Let's_find_a_time-EBC88D?style=for-the-badge&labelColor=0D1117&color=EBC88D">
-  </a>
-</div>
+  <div style="text-align: center; margin: 4em auto 3em; max-width: 700px;">
+    <a href="mailto:your.email@example.com" style="display: inline-block; margin-bottom: 1em; text-decoration: none;">
+      <img alt="Business Inquiries" src="https://img.shields.io/badge/🚀_Got_an_exciting_project%3F-Let's_build_together-83D6C5?style=for-the-badge&labelColor=0D1117&color=83D6C5">
+    </a>
+    <a href="https://calendly.com/yourusername" target="_blank" style="display: inline-block; text-decoration: none;">
+      <img alt="Schedule a Call" src="https://img.shields.io/badge/☕_Virtual_coffee%3F-Let's_find_a_time-EBC88D?style=for-the-badge&labelColor=0D1117&color=EBC88D">
+    </a>
+  </div>
 </div>
