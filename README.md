@@ -37,28 +37,28 @@
 
 <div style="margin: 2em 0 1.5em 0;">
   <h3 style="color: #83D6C5; margin: 0 0 0.8em 0; font-size: 1.2em; font-weight: 600;">About Me</h3>
-  <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-    <li style="display: flex; align-items: flex-start; margin-bottom: 0.5em; gap: 8px;">
+  <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 0.5em; gap: 8px;">
+    <div style="display: flex; align-items: flex-start; margin-bottom: 0.5em; gap: 8px;">
       <span style="color: #83D6C5; flex-shrink: 0; margin-top: 0.2em;">▲</span>
       <span style="color: #D6D6DD;"><strong style="color: #83D6C5;">AI Engineer</strong> with expertise in modern AI/ML technologies</span>
-    </li>
-    <li style="display: flex; align-items: flex-start; margin-bottom: 0.5em; gap: 8px;">
+    </div>
+    <div style="display: flex; align-items: flex-start; margin-bottom: 0.5em; gap: 8px;">
       <span style="color: #83D6C5; flex-shrink: 0; margin-top: 0.2em;">▲</span>
       <span style="color: #D6D6DD;"><strong style="color: #83D6C5;">Tech Entrepreneur</strong> with experience in building and scaling SaaS products</span>
-    </li>
-    <li style="display: flex; align-items: flex-start; margin-bottom: 0.5em; gap: 8px;">
+    </div>
+    <div style="display: flex; align-items: flex-start; margin-bottom: 0.5em; gap: 8px;">
       <span style="color: #83D6C5; flex-shrink: 0; margin-top: 0.2em;">▲</span>
       <span style="color: #D6D6DD;"><strong style="color: #83D6C5;">Results-driven</strong> with a focus on practical, impactful solutions</span>
-    </li>
-    <li style="display: flex; align-items: flex-start; margin-bottom: 0.5em; gap: 8px;">
+    </div>
+    <div style="display: flex; align-items: flex-start; margin-bottom: 0.5em; gap: 8px;">
       <span style="color: #83D6C5; flex-shrink: 0; margin-top: 0.2em;">▲</span>
       <span style="color: #D6D6DD;"><strong style="color: #83D6C5;">Continuously expanding expertise in cutting-edge AI technologies</strong></span>
-    </li>
-    <li style="display: flex; align-items: flex-start; gap: 8px;">
+    </div>
+    <div style="display: flex; align-items: flex-start; gap: 8px;">
       <span style="color: #83D6C5; flex-shrink: 0; margin-top: 0.2em;">▲</span>
       <span style="color: #D6D6DD;"><strong style="color: #83D6C5;">Passionate about transforming strategic vision into technological reality</strong></span>
-    </li>
-  </ul>
+    </div>
+  </div>
 </div>
 
 <h3 style="color: #83D6C5; margin: 1.5em 0 0.8em 0; font-size: 1.2em; font-weight: 600; border-bottom: 1px solid #2D3748; padding-bottom: 0.5em;">
