@@ -117,3 +117,17 @@
     <img alt="Schedule a Call" src="https://img.shields.io/badge/☕_Virtual_coffee%3F-Let's_find_a_time-EBC88D?style=for-the-badge&labelColor=0D1117&color=EBC88D">
   </a>
 </div>
+
+
+
+
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/stefan-einert/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@patterns.absorbed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Wagner12668765) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patterns.absorbed@proton.me)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ethr&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ethr&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ethr&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
