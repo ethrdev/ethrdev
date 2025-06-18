@@ -1,17 +1,3 @@
-<div align="center" style="margin: 0.5em 0 0.8em 0;"></div>
-
-<div align="center" style="
-  font-family: 'Fira Code', monospace;
-  color: #737373;
-  font-size: 0.9em;
-  margin: -0.5em 0 1.2em 0;
-  letter-spacing: 0.3em;
-  line-height: 1.5;
-">
-  <span>✦</span><span>✧</span><span>✦</span><span>✧</span><span>✦</span>
-</div>
-
-
 <div style="width: 100%; display: flex; justify-content: center; margin: 2em 0;">
   <div style="display: inline-block; text-align: center; justify-content: center; align-items: center; max-width: 100%;">
     <a href="https://git.io/typing-svg">
@@ -105,12 +91,12 @@
 </div>
 
 
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
   <div style="text-align: center; margin: 4em auto 3em; max-width: 700px;">
-    <a href="mailto:your.email@example.com" style="display: inline-block; margin-bottom: 1em; text-decoration: none;">
+    <a href="mailto:s.einert@proton.me" style="display: inline-block; margin-bottom: 1em; text-decoration: none;">
       <img alt="Business Inquiries" src="https://img.shields.io/badge/🚀_Got_an_exciting_project%3F-Let's_build_together-83D6C5?style=for-the-badge&labelColor=0D1117&color=83D6C5">
     </a>
-    <a href="https://calendly.com/yourusername" target="_blank" style="display: inline-block; text-decoration: none;">
+    <a href="mailto:patterns.absorbed@proton.me" target="_blank" style="display: inline-block; text-decoration: none;">
       <img alt="Schedule a Call" src="https://img.shields.io/badge/☕_Virtual_coffee%3F-Let's_find_a_time-EBC88D?style=for-the-badge&labelColor=0D1117&color=EBC88D">
     </a>
   </div>
