@@ -4,17 +4,14 @@
     <a href="https://github.com/ethrdev" style="text-decoration: none; margin: 0 10px; transition: opacity 0.3s;" onmouseover="this.style.opacity=0.7" onmouseout="this.style.opacity=1">
       <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=83D6C5" alt="GitHub" />
     </a>
-    <a href="https://linkedin.com/in/yourusername" style="text-decoration: none; margin: 0 10px; transition: opacity 0.3s;" onmouseover="this.style.opacity=0.7" onmouseout="this.style.opacity=1">
+    <a href="https://www.linkedin.com/in/stefan-einert/" style="text-decoration: none; margin: 0 10px; transition: opacity 0.3s;" onmouseover="this.style.opacity=0.7" onmouseout="this.style.opacity=1">
       <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM4M0Q2QzUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTYgOGE2IDYgMCAwIDEgNiA2djdoLTR2LTdhMiAyIDAgMCAwLTItMiAyIDIgMCAwIDAtMiAydjdoLTR2LTdhNiA2IDAgMCAxIDYtNnoiPjwvcGF0aD48cmVjdCB4PSIyIiB5PSI5IiB3aWR0aD0iNCIgaGVpZ2h0PSIxMiI+PC9yZWN0PjxjaXJjbGUgY3g9IjQiIGN5PSI0IiByPSIyIj48L2NpcmNsZT48L3N2Zz4=&logoColor=83D6C5" alt="LinkedIn" />
     </a>
-    <a href="https://x.com/yourusername" style="text-decoration: none; margin: 0 10px; transition: opacity 0.3s;" onmouseover="this.style.opacity=0.7" onmouseout="this.style.opacity=1">
+    <a href="https://x.com/Wagner12668765" style="text-decoration: none; margin: 0 10px; transition: opacity 0.3s;" onmouseover="this.style.opacity=0.7" onmouseout="this.style.opacity=1">
       <img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=83D6C5" alt="X" />
     </a>
   </div>
-
-  <div style="font-family: 'Fira Code', monospace; color: #737373; font-size: 0.9em; margin-bottom: 1em; letter-spacing: 0.3em; line-height: 1.5;">
-    <span>✦</span><span>✧</span><span>✦</span><span>✧</span><span>✦</span>
-  </div>
+<br>
 
   <div style="width: 100%; display: flex; justify-content: center;">
     <a href="https://git.io/typing-svg">
