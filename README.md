@@ -7,8 +7,8 @@
     <a href="https://linkedin.com/in/yourusername" style="text-decoration: none; margin: 0 10px; transition: opacity 0.3s;" onmouseover="this.style.opacity=0.7" onmouseout="this.style.opacity=1">
       <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=83D6C5" alt="LinkedIn" />
     </a>
-    <a href="https://twitter.com/yourusername" style="text-decoration: none; margin: 0 10px; transition: opacity 0.3s;" onmouseover="this.style.opacity=0.7" onmouseout="this.style.opacity=1">
-      <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=83D6C5" alt="Twitter" />
+    <a href="https://x.com/yourusername" style="text-decoration: none; margin: 0 10px; transition: opacity 0.3s;" onmouseover="this.style.opacity=0.7" onmouseout="this.style.opacity=1">
+      <img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=83D6C5" alt="X" />
     </a>
   </div>
 
