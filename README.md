@@ -65,36 +65,34 @@
   Technologies & Tools
 </h3>
 
-<h4 style="color: #EBC88D; margin: 2em 0 1em 0; font-size: 1.1em; font-weight: 600; display: flex; align-items: center; gap: 8px;">
-  <span style="display: inline-block; width: 8px; height: 8px; background-color: #EBC88D; border-radius: 50%;"></span>
+<h4 style="color: #E394DC; margin: 2em 0 1em 0; font-size: 1.1em; font-weight: 600; display: flex; align-items: center; gap: 8px;">
+  <span style="display: inline-block; width: 8px; height: 8px; background-color: #E394DC; border-radius: 50%;"></span>
   App Development
 </h4>
 
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat&logo=typescript&logoColor=83D6C5)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat&logo=javascript&logoColor=83D6C5)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-0D1117?style=flat&logo=react&logoColor=83D6C5)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat&logo=nextdotjs&logoColor=83D6C5)](https://nextjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat&logo=nodedotjs&logoColor=83D6C5)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-0D1117?style=flat&logo=express&logoColor=83D6C5)](https://expressjs.com/)
-[![GraphQL](https://img.shields.io/badge/GraphQL-0D1117?style=flat&logo=graphql&logoColor=83D6C5)](https://graphql.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat&logo=tailwindcss&logoColor=83D6C5)](https://tailwindcss.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat&logo=typescript&logoColor=E394DC)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat&logo=javascript&logoColor=E394DC)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-0D1117?style=flat&logo=react&logoColor=E394DC)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat&logo=nextdotjs&logoColor=E394DC)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat&logo=nodedotjs&logoColor=E394DC)](https://nodejs.org/)
+[![GraphQL](https://img.shields.io/badge/GraphQL-0D1117?style=flat&logo=graphql&logoColor=E394DC)](https://graphql.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat&logo=tailwindcss&logoColor=E394DC)](https://tailwindcss.com/)
 
 <h4 style="color: #EBC88D; margin: 2em 0 1em 0; font-size: 1.1em; font-weight: 600; display: flex; align-items: center; gap: 8px;">
   <span style="display: inline-block; width: 8px; height: 8px; background-color: #EBC88D; border-radius: 50%;"></span>
   Data Science & AI
 </h4>
 
-[![Python](https://img.shields.io/badge/Python-0D1117?style=flat&logo=python&logoColor=83D6C5)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=flat&logo=tensorflow&logoColor=83D6C5)](https://www.tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat&logo=pytorch&logoColor=83D6C5)](https://pytorch.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat&logo=numpy&logoColor=83D6C5)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat&logo=pandas&logoColor=83D6C5)](https://pandas.pydata.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=flat&logo=scikit-learn&logoColor=83D6C5)](https://scikit-learn.org/)
-[![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat&logo=langchain&logoColor=83D6C5)](https://python.langchain.com/)
-[![ChromaDB](https://img.shields.io/badge/ChromaDB-0D1117?style=flat&logo=chromium&logoColor=83D6C5)](https://www.trychroma.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat&logo=mysql&logoColor=83D6C5)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat&logo=postgresql&logoColor=83D6C5)](https://www.postgresql.org/)
+[![Python](https://img.shields.io/badge/Python-0D1117?style=flat&logo=python&logoColor=EBC88D)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=flat&logo=tensorflow&logoColor=EBC88D)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat&logo=pytorch&logoColor=EBC88D)](https://pytorch.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat&logo=numpy&logoColor=EBC88D)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat&logo=pandas&logoColor=EBC88D)](https://pandas.pydata.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=flat&logo=scikit-learn&logoColor=EBC88D)](https://scikit-learn.org/)
+[![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat&logo=langchain&logoColor=EBC88D)](https://python.langchain.com/)
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-0D1117?style=flat&logo=chromium&logoColor=EBC88D)](https://www.trychroma.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat&logo=mysql&logoColor=EBC88D)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat&logo=postgresql&logoColor=EBC88D)](https://www.postgresql.org/)
 
 
 [![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethrdev&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&icon_color=83D6C5&ring_color=EBC88D&include_all_commits=true&count_private=true&hide=issues,contribs)](https://github.com/ethrdev)
