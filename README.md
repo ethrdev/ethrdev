@@ -124,30 +124,90 @@
   <font color="#83D6C5">Featured Projects</font>
 </h3>
 
-<div style="display: flex; flex-direction: column; gap: 1.2rem; margin: 1.5em 0 3em 0;">
-  <a href="https://github.com/ethrdev/project-name-1" style="text-decoration: none; color: inherit; display: flex; border-radius: 6px; overflow: hidden; transition: transform 0.3s;" onmouseover="this.style.transform='translateX(5px)'" onmouseout="this.style.transform='translateX(0)'">
-    <div style="background: rgba(131, 214, 197, 0.1); padding: 1em; border-left: 3px solid #83D6C5; width: 100%;">
-      <h4 style="color: #83D6C5; margin: 0 0 0.5em 0;">AI Documentation Assistant</h4>
-      <p style="color: #D6D6DD; margin: 0 0 0.5em 0; font-size: 0.9em;">LLM-powered tool that automatically generates high-quality technical documentation from codebases.</p>
-      <div style="font-size: 0.8em; color: #737373;">
-        <span style="background: rgba(131, 214, 197, 0.1); padding: 2px 8px; border-radius: 4px; margin-right: 8px;">Python</span>
-        <span style="background: rgba(131, 214, 197, 0.1); padding: 2px 8px; border-radius: 4px; margin-right: 8px;">LangChain</span>
-        <span style="background: rgba(131, 214, 197, 0.1); padding: 2px 8px; border-radius: 4px;">Next.js</span>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem; margin: 1.5em 0 3em 0;">
+  <!-- Project 1 -->
+  <div style="max-width: 360px; min-width: 300px; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.2); background: rgba(14, 17, 23, 0.6); transition: all 0.3s; margin-bottom: 0.5em;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(0,0,0,0.3)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 16px rgba(0,0,0,0.2)'">
+    <a href="https://github.com/ethrdev/project-name-1" style="text-decoration: none;">
+      <div style="height: 100px; background: linear-gradient(135deg, rgba(131, 214, 197, 0.2) 0%, rgba(131, 214, 197, 0.5) 100%); display: flex; align-items: center; justify-content: center;">
+        <svg height="50" width="50" viewBox="0 0 16 16" version="1.1" style="fill: #83D6C5;">
+          <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7a.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
+        </svg>
       </div>
-    </div>
-  </a>
-  
-  <a href="https://github.com/ethrdev/project-name-2" style="text-decoration: none; color: inherit; display: flex; border-radius: 6px; overflow: hidden; transition: transform 0.3s;" onmouseover="this.style.transform='translateX(5px)'" onmouseout="this.style.transform='translateX(0)'">
-    <div style="background: rgba(235, 200, 141, 0.1); padding: 1em; border-left: 3px solid #EBC88D; width: 100%;">
-      <h4 style="color: #EBC88D; margin: 0 0 0.5em 0;">Predictive Analytics Dashboard</h4>
-      <p style="color: #D6D6DD; margin: 0 0 0.5em 0; font-size: 0.9em;">Real-time data visualization platform with ML-powered forecasting and anomaly detection.</p>
-      <div style="font-size: 0.8em; color: #737373;">
-        <span style="background: rgba(235, 200, 141, 0.1); padding: 2px 8px; border-radius: 4px; margin-right: 8px;">React</span>
-        <span style="background: rgba(235, 200, 141, 0.1); padding: 2px 8px; border-radius: 4px; margin-right: 8px;">TensorFlow</span>
-        <span style="background: rgba(235, 200, 141, 0.1); padding: 2px 8px; border-radius: 4px;">GraphQL</span>
+      
+      <div style="padding: 1.2em;">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.8em;">
+          <h4 style="color: #83D6C5; margin: 0; font-size: 1.2em;">AI Documentation Assistant</h4>
+          <div style="background: rgba(131, 214, 197, 0.1); border-radius: 12px; padding: 4px 12px;">
+            <span style="color: #83D6C5; font-size: 0.8em;">★ 24</span>
+          </div>
+        </div>
+        
+        <p style="color: #D6D6DD; margin: 0 0 0.8em 0; font-size: 0.9em; height: 60px; overflow: hidden;">LLM-powered tool that automatically generates high-quality technical documentation from codebases.</p>
+        
+        <div style="display: flex; flex-wrap: wrap; gap: 0.5em; margin-bottom: 0.5em;">
+          <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=83D6C5" alt="Python" />
+          <img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=chainlink&logoColor=83D6C5" alt="LangChain" />
+          <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js&logoColor=83D6C5" alt="Next.js" />
+        </div>
       </div>
-    </div>
-  </a>
+    </a>
+  </div>
+
+  <!-- Project 2 -->
+  <div style="max-width: 360px; min-width: 300px; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.2); background: rgba(14, 17, 23, 0.6); transition: all 0.3s; margin-bottom: 0.5em;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(0,0,0,0.3)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 16px rgba(0,0,0,0.2)'">
+    <a href="https://github.com/ethrdev/project-name-2" style="text-decoration: none;">
+      <div style="height: 100px; background: linear-gradient(135deg, rgba(235, 200, 141, 0.2) 0%, rgba(235, 200, 141, 0.5) 100%); display: flex; align-items: center; justify-content: center;">
+        <svg height="50" width="50" viewBox="0 0 16 16" version="1.1" style="fill: #EBC88D;">
+          <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7a.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
+        </svg>
+      </div>
+      
+      <div style="padding: 1.2em;">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.8em;">
+          <h4 style="color: #EBC88D; margin: 0; font-size: 1.2em;">Predictive Analytics Dashboard</h4>
+          <div style="background: rgba(235, 200, 141, 0.1); border-radius: 12px; padding: 4px 12px;">
+            <span style="color: #EBC88D; font-size: 0.8em;">★ 18</span>
+          </div>
+        </div>
+        
+        <p style="color: #D6D6DD; margin: 0 0 0.8em 0; font-size: 0.9em; height: 60px; overflow: hidden;">Real-time data visualization platform with ML-powered forecasting and anomaly detection.</p>
+        
+        <div style="display: flex; flex-wrap: wrap; gap: 0.5em; margin-bottom: 0.5em;">
+          <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=EBC88D" alt="React" />
+          <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=EBC88D" alt="TensorFlow" />
+          <img src="https://img.shields.io/badge/GraphQL-0D1117?style=flat-square&logo=graphql&logoColor=EBC88D" alt="GraphQL" />
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <!-- Project 3 -->
+  <div style="max-width: 360px; min-width: 300px; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.2); background: rgba(14, 17, 23, 0.6); transition: all 0.3s; margin-bottom: 0.5em;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(0,0,0,0.3)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 16px rgba(0,0,0,0.2)'">
+    <a href="https://github.com/ethrdev/project-name-3" style="text-decoration: none;">
+      <div style="height: 100px; background: linear-gradient(135deg, rgba(227, 148, 220, 0.2) 0%, rgba(227, 148, 220, 0.5) 100%); display: flex; align-items: center; justify-content: center;">
+        <svg height="50" width="50" viewBox="0 0 16 16" version="1.1" style="fill: #E394DC;">
+          <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7a.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
+        </svg>
+      </div>
+      
+      <div style="padding: 1.2em;">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.8em;">
+          <h4 style="color: #E394DC; margin: 0; font-size: 1.2em;">Cloud Microservices Framework</h4>
+          <div style="background: rgba(227, 148, 220, 0.1); border-radius: 12px; padding: 4px 12px;">
+            <span style="color: #E394DC; font-size: 0.8em;">★ 32</span>
+          </div>
+        </div>
+        
+        <p style="color: #D6D6DD; margin: 0 0 0.8em 0; font-size: 0.9em; height: 60px; overflow: hidden;">Scalable microservices architecture for cloud-native applications with built-in observability.</p>
+        
+        <div style="display: flex; flex-wrap: wrap; gap: 0.5em; margin-bottom: 0.5em;">
+          <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=E394DC" alt="Go" />
+          <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=E394DC" alt="Docker" />
+          <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=E394DC" alt="Kubernetes" />
+        </div>
+      </div>
+    </a>
+  </div>
 </div>
 
 <h3 align="left" style="color: #83D6C5 !important; margin-top: 3em; margin-bottom: 1em; font-size: 1.2em; border-bottom: 1px solid rgba(131, 214, 197, 0.3); padding-bottom: 0.5em;">
