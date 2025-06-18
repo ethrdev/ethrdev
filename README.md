@@ -95,9 +95,14 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=EBC88D)](https://www.postgresql.org/)
 
 
-[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethrdev&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&icon_color=83D6C5&ring_color=EBC88D&include_all_commits=true&count_private=true&hide=issues,contribs)](https://github.com/ethrdev)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethrdev&layout=compact&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&icon_color=83D6C5&border_color=2D3748&card_width=445&text_bold=false&hide=html,css,scss&langs_count=6&include_private=true&theme=dark&custom_title=Most%20Used%20Languages&border_radius=6&locale=en&cache_seconds=7200)](https://github.com/ethrdev?tab=repositories)
+<div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; margin: 1.5em 0;">
+  <a href="https://github.com/ethrdev">
+    <img alt="Stefan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ethrdev&show_icons=true&bg_color=0D1117&hide_border=true&title_color=83D6C5&text_color=D6D6DD&icon_color=83D6C5&ring_color=EBC88D&include_all_commits=true&count_private=true&hide=issues,contribs" />
+  </a>
+  <a href="https://github.com/ethrdev?tab=repositories">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethrdev&layout=compact&bg_color=0D1117&hide_border=true&border_color=2D3748&title_color=83D6C5&text_color=D6D6DD&card_width=445&text_bold=false&hide=html,css,scss&langs_count=6&include_private=true&custom_title=Most%20Used%20Languages&border_radius=6&locale=en&cache_seconds=7200" />
+  </a>
+</div>
 
 
 
