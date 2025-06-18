@@ -47,6 +47,8 @@
   </div>
 </div>
 
+
+
 <h3 align="left" style="color: #83D6C5 !important; margin-top: 3em; margin-bottom: 1.5em; font-size: 1.3em; border-bottom: 1px solid rgba(131, 214, 197, 0.3); padding-bottom: 0.5em;">
   <font color="#83D6C5">Technologies & Tools</font>
 </h3>
@@ -56,6 +58,8 @@
   <font color="#E394DC">App Development</font>
 </h4>
 
+
+
 [![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=E394DC)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=E394DC)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=E394DC)](https://reactjs.org/)
@@ -63,6 +67,8 @@
 [![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=E394DC)](https://nodejs.org/)
 [![GraphQL](https://img.shields.io/badge/GraphQL-0D1117?style=for-the-badge&logo=graphql&logoColor=E394DC)](https://graphql.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=E394DC)](https://tailwindcss.com/)
+
+
 
 <h4 align="left" style="text-color: #EBC88D !important; margin: 2em 0 1em 0; font-size: 1.1em; font-weight: 600; display: flex; align-items: center; gap: 8px;">
   <span style="display: inline-block; width: 8px; height: 8px; background-color: #EBC88D; border-radius: 50%;"></span>
@@ -79,8 +85,6 @@
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-0D1117?style=for-the-badge&logo=chromium&logoColor=EBC88D)](https://www.trychroma.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=EBC88D)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=EBC88D)](https://www.postgresql.org/)
-#
-#
 #
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; margin: 1.5em 0;">
   <a href="https://github.com/ethrdev">
