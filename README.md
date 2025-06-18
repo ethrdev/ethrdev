@@ -36,7 +36,7 @@
     <span style="color: #83D6C5;">▲</span>
     <span>Focused on creating impactful, production-ready AI applications</span>
   </div>
-  
+
   <!-- Keywords for SEO and better visibility -->
   <div style="margin-top: 1.5em; font-size: 0.9em; color: #737373;">
     <code>#AIEngineering</code> <code>#MachineLearning</code> <code>#ProductDevelopment</code> <code>#LLMs</code> <code>#AIStrategy</code>
@@ -133,7 +133,7 @@
           <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7a.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
         </svg>
       </div>
-      
+
       <div style="padding: 1.2em;">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.8em;">
           <h4 style="color: #83D6C5; margin: 0; font-size: 1.2em;">AI Documentation Assistant</h4>
@@ -141,9 +141,9 @@
             <span style="color: #83D6C5; font-size: 0.8em;">★ 24</span>
           </div>
         </div>
-        
+
         <p style="color: #D6D6DD; margin: 0 0 0.8em 0; font-size: 0.9em; height: 60px; overflow: hidden;">LLM-powered tool that automatically generates high-quality technical documentation from codebases.</p>
-        
+
         <div style="display: flex; flex-wrap: wrap; gap: 0.5em; margin-bottom: 0.5em;">
           <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=83D6C5" alt="Python" />
           <img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=chainlink&logoColor=83D6C5" alt="LangChain" />
@@ -161,7 +161,7 @@
           <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7a.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
         </svg>
       </div>
-      
+
       <div style="padding: 1.2em;">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.8em;">
           <h4 style="color: #EBC88D; margin: 0; font-size: 1.2em;">Predictive Analytics Dashboard</h4>
@@ -169,9 +169,9 @@
             <span style="color: #EBC88D; font-size: 0.8em;">★ 18</span>
           </div>
         </div>
-        
+
         <p style="color: #D6D6DD; margin: 0 0 0.8em 0; font-size: 0.9em; height: 60px; overflow: hidden;">Real-time data visualization platform with ML-powered forecasting and anomaly detection.</p>
-        
+
         <div style="display: flex; flex-wrap: wrap; gap: 0.5em; margin-bottom: 0.5em;">
           <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=EBC88D" alt="React" />
           <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=EBC88D" alt="TensorFlow" />
@@ -189,7 +189,7 @@
           <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7a.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
         </svg>
       </div>
-      
+
       <div style="padding: 1.2em;">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.8em;">
           <h4 style="color: #E394DC; margin: 0; font-size: 1.2em;">Cloud Microservices Framework</h4>
@@ -197,9 +197,9 @@
             <span style="color: #E394DC; font-size: 0.8em;">★ 32</span>
           </div>
         </div>
-        
+
         <p style="color: #D6D6DD; margin: 0 0 0.8em 0; font-size: 0.9em; height: 60px; overflow: hidden;">Scalable microservices architecture for cloud-native applications with built-in observability.</p>
-        
+
         <div style="display: flex; flex-wrap: wrap; gap: 0.5em; margin-bottom: 0.5em;">
           <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=E394DC" alt="Go" />
           <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=E394DC" alt="Docker" />
